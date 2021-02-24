@@ -1,831 +1,540 @@
 [
-    {
-        "content": "\u201cThe world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.\u201d",
-        "author": "Albert Einstein",
-        "tags": [
-            "change",
-            "deep-thoughts",
-            "thinking",
-            "world"
-        ]
-    },
-    {
-        "content": "\u201cIt is our choices, Harry, that show what we truly are, far more than our abilities.\u201d",
-        "author": "J.K. Rowling",
-        "tags": [
-            "abilities",
-            "choices"
-        ]
-    },
-    {
-        "content": "\u201cThere are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.\u201d",
-        "author": "Albert Einstein",
-        "tags": [
-            "inspirational",
-            "life",
-            "live",
-            "miracle",
-            "miracles"
-        ]
-    },
-    {
-        "content": "\u201cThe person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.\u201d",
-        "author": "Jane Austen",
-        "tags": [
-            "aliteracy",
-            "books",
-            "classic",
-            "humor"
-        ]
-    },
-    {
-        "content": "\u201cImperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.\u201d",
-        "author": "Marilyn Monroe",
-        "tags": [
-            "be-yourself",
-            "inspirational"
-        ]
-    },
-    {
-        "content": "\u201cTry not to become a man of success. Rather become a man of value.\u201d",
-        "author": "Albert Einstein",
-        "tags": [
-            "adulthood",
-            "success",
-            "value"
-        ]
-    },
-    {
-        "content": "\u201cIt is better to be hated for what you are than to be loved for what you are not.\u201d",
-        "author": "Andr\u00e9 Gide",
-        "tags": [
-            "life",
-            "love"
-        ]
-    },
-    {
-        "content": "\u201cI have not failed. I've just found 10,000 ways that won't work.\u201d",
-        "author": "Thomas A. Edison",
-        "tags": [
-            "edison",
-            "failure",
-            "inspirational",
-            "paraphrased"
-        ]
-    },
-    {
-        "content": "\u201cA woman is like a tea bag; you never know how strong it is until it's in hot water.\u201d",
-        "author": "Eleanor Roosevelt",
-        "tags": [
-            "misattributed-eleanor-roosevelt"
-        ]
-    },
-    {
-        "content": "\u201cA day without sunshine is like, you know, night.\u201d",
-        "author": "Steve Martin",
-        "tags": [
-            "humor",
-            "obvious",
-            "simile"
-        ]
-    },
-    {
-        "content": "\u201cThis life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.\u201d",
-        "author": "Marilyn Monroe",
-        "tags": [
-            "friends",
-            "heartbreak",
-            "inspirational",
-            "life",
-            "love",
-            "sisters"
-        ]
-    },
-    {
-        "content": "\u201cIt takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.\u201d",
-        "author": "J.K. Rowling",
-        "tags": [
-            "courage",
-            "friends"
-        ]
-    },
-    {
-        "content": "\u201cIf you can't explain it to a six year old, you don't understand it yourself.\u201d",
-        "author": "Albert Einstein",
-        "tags": [
-            "simplicity",
-            "understand"
-        ]
-    },
-    {
-        "content": "\u201cYou may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect\u2014you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break\u2014her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.\u201d",
-        "author": "Bob Marley",
-        "tags": [
-            "love"
-        ]
-    },
-    {
-        "content": "\u201cI like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.\u201d",
-        "author": "Dr. Seuss",
-        "tags": [
-            "fantasy"
-        ]
-    },
-    {
-        "content": "\u201cI may not have gone where I intended to go, but I think I have ended up where I needed to be.\u201d",
-        "author": "Douglas Adams",
-        "tags": [
-            "life",
-            "navigation"
-        ]
-    },
-    {
-        "content": "\u201cThe opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.\u201d",
-        "author": "Elie Wiesel",
-        "tags": [
-            "activism",
-            "apathy",
-            "hate",
-            "indifference",
-            "inspirational",
-            "love",
-            "opposite",
-            "philosophy"
-        ]
-    },
-    {
-        "content": "\u201cIt is not a lack of love, but a lack of friendship that makes unhappy marriages.\u201d",
-        "author": "Friedrich Nietzsche",
-        "tags": [
-            "friendship",
-            "lack-of-friendship",
-            "lack-of-love",
-            "love",
-            "marriage",
-            "unhappy-marriage"
-        ]
-    },
-    {
-        "content": "\u201cGood friends, good books, and a sleepy conscience: this is the ideal life.\u201d",
-        "author": "Mark Twain",
-        "tags": [
-            "books",
-            "contentment",
-            "friends",
-            "friendship",
-            "life"
-        ]
-    },
-    {
-        "content": "\u201cLife is what happens to us while we are making other plans.\u201d",
-        "author": "Allen Saunders",
-        "tags": [
-            "fate",
-            "life",
-            "misattributed-john-lennon",
-            "planning",
-            "plans"
-        ]
-    },
-    {
-        "content": "\u201cI love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.\u201d",
-        "author": "Pablo Neruda",
-        "tags": [
-            "love",
-            "poetry"
-        ]
-    },
-    {
-        "content": "\u201cFor every minute you are angry you lose sixty seconds of happiness.\u201d",
-        "author": "Ralph Waldo Emerson",
-        "tags": [
-            "happiness"
-        ]
-    },
-    {
-        "content": "\u201cIf you judge people, you have no time to love them.\u201d",
-        "author": "Mother Teresa",
-        "tags": [
-            "attributed-no-source"
-        ]
-    },
-    {
-        "content": "\u201cAnyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.\u201d",
-        "author": "Garrison Keillor",
-        "tags": [
-            "humor",
-            "religion"
-        ]
-    },
-    {
-        "content": "\u201cBeauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.\u201d",
-        "author": "Jim Henson",
-        "tags": [
-            "humor"
-        ]
-    },
-    {
-        "content": "\u201cToday you are You, that is truer than true. There is no one alive who is Youer than You.\u201d",
-        "author": "Dr. Seuss",
-        "tags": [
-            "comedy",
-            "life",
-            "yourself"
-        ]
-    },
-    {
-        "content": "\u201cIf you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.\u201d",
-        "author": "Albert Einstein",
-        "tags": [
-            "children",
-            "fairy-tales"
-        ]
-    },
-    {
-        "content": "\u201cIt is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.\u201d",
-        "author": "J.K. Rowling",
-        "tags": []
-    },
-    {
-        "content": "\u201cLogic will get you from A to Z; imagination will get you everywhere.\u201d",
-        "author": "Albert Einstein",
-        "tags": [
-            "imagination"
-        ]
-    },
-    {
-        "content": "\u201cOne good thing about music, when it hits you, you feel no pain.\u201d",
-        "author": "Bob Marley",
-        "tags": [
-            "music"
-        ]
-    },
-    {
-        "content": "\u201cThe more that you read, the more things you will know. The more that you learn, the more places you'll go.\u201d",
-        "author": "Dr. Seuss",
-        "tags": [
-            "learning",
-            "reading",
-            "seuss"
-        ]
-    },
-    {
-        "content": "\u201cOf course it is happening inside your head, Harry, but why on earth should that mean that it is not real?\u201d",
-        "author": "J.K. Rowling",
-        "tags": [
-            "dumbledore"
-        ]
-    },
-    {
-        "content": "\u201cThe truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.\u201d",
-        "author": "Bob Marley",
-        "tags": [
-            "friendship"
-        ]
-    },
-    {
-        "content": "\u201cNot all of us can do great things. But we can do small things with great love.\u201d",
-        "author": "Mother Teresa",
-        "tags": [
-            "misattributed-to-mother-teresa",
-            "paraphrased"
-        ]
-    },
-    {
-        "content": "\u201cTo the well-organized mind, death is but the next great adventure.\u201d",
-        "author": "J.K. Rowling",
-        "tags": [
-            "death",
-            "inspirational"
-        ]
-    },
-    {
-        "content": "\u201cAll you need is love. But a little chocolate now and then doesn't hurt.\u201d",
-        "author": "Charles M. Schulz",
-        "tags": [
-            "chocolate",
-            "food",
-            "humor"
-        ]
-    },
-    {
-        "content": "\u201cWe read to know we're not alone.\u201d",
-        "author": "William Nicholson",
-        "tags": [
-            "misattributed-to-c-s-lewis",
-            "reading"
-        ]
-    },
-    {
-        "content": "\u201cAny fool can know. The point is to understand.\u201d",
-        "author": "Albert Einstein",
-        "tags": [
-            "knowledge",
-            "learning",
-            "understanding",
-            "wisdom"
-        ]
-    },
-    {
-        "content": "\u201cI have always imagined that Paradise will be a kind of library.\u201d",
-        "author": "Jorge Luis Borges",
-        "tags": [
-            "books",
-            "library"
-        ]
-    },
-    {
-        "content": "\u201cIt is never too late to be what you might have been.\u201d",
-        "author": "George Eliot",
-        "tags": [
-            "inspirational"
-        ]
-    },
-    {
-        "content": "\u201cA reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.\u201d",
-        "author": "George R.R. Martin",
-        "tags": [
-            "read",
-            "readers",
-            "reading",
-            "reading-books"
-        ]
-    },
-    {
-        "content": "\u201cYou can never get a cup of tea large enough or a book long enough to suit me.\u201d",
-        "author": "C.S. Lewis",
-        "tags": [
-            "books",
-            "inspirational",
-            "reading",
-            "tea"
-        ]
-    },
-    {
-        "content": "\u201cYou believe lies so you eventually learn to trust no one but yourself.\u201d",
-        "author": "Marilyn Monroe",
-        "tags": []
-    },
-    {
-        "content": "\u201cIf you can make a woman laugh, you can make her do anything.\u201d",
-        "author": "Marilyn Monroe",
-        "tags": [
-            "girls",
-            "love"
-        ]
-    },
-    {
-        "content": "\u201cLife is like riding a bicycle. To keep your balance, you must keep moving.\u201d",
-        "author": "Albert Einstein",
-        "tags": [
-            "life",
-            "simile"
-        ]
-    },
-    {
-        "content": "\u201cThe real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.\u201d",
-        "author": "Marilyn Monroe",
-        "tags": [
-            "love"
-        ]
-    },
-    {
-        "content": "\u201cA wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.\u201d",
-        "author": "Marilyn Monroe",
-        "tags": [
-            "attributed-no-source"
-        ]
-    },
-    {
-        "content": "\u201cOnly in the darkness can you see the stars.\u201d",
-        "author": "Martin Luther King Jr.",
-        "tags": [
-            "hope",
-            "inspirational"
-        ]
-    },
-    {
-        "content": "\u201cIt matters not what someone is born, but what they grow to be.\u201d",
-        "author": "J.K. Rowling",
-        "tags": [
-            "dumbledore"
-        ]
-    },
-    {
-        "content": "\u201cLove does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.\u201d",
-        "author": "James Baldwin",
-        "tags": [
-            "love"
-        ]
-    },
-    {
-        "content": "\u201cThere is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.\u201d",
-        "author": "Jane Austen",
-        "tags": [
-            "friendship",
-            "love"
-        ]
-    },
-    {
-        "content": "\u201cDo one thing every day that scares you.\u201d",
-        "author": "Eleanor Roosevelt",
-        "tags": [
-            "attributed",
-            "fear",
-            "inspiration"
-        ]
-    },
-    {
-        "content": "\u201cI am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.\u201d",
-        "author": "Marilyn Monroe",
-        "tags": [
-            "attributed-no-source"
-        ]
-    },
-    {
-        "content": "\u201cIf I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.\u201d",
-        "author": "Albert Einstein",
-        "tags": [
-            "music"
-        ]
-    },
-    {
-        "content": "\u201cIf you only read the books that everyone else is reading, you can only think what everyone else is thinking.\u201d",
-        "author": "Haruki Murakami",
-        "tags": [
-            "books",
-            "thought"
-        ]
-    },
-    {
-        "content": "\u201cThe difference between genius and stupidity is: genius has its limits.\u201d",
-        "author": "Alexandre Dumas fils",
-        "tags": [
-            "misattributed-to-einstein"
-        ]
-    },
-    {
-        "content": "\u201cHe's like a drug for you, Bella.\u201d",
-        "author": "Stephenie Meyer",
-        "tags": [
-            "drug",
-            "romance",
-            "simile"
-        ]
-    },
-    {
-        "content": "\u201cThere is no friend as loyal as a book.\u201d",
-        "author": "Ernest Hemingway",
-        "tags": [
-            "books",
-            "friends",
-            "novelist-quotes"
-        ]
-    },
-    {
-        "content": "\u201cWhen one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.\u201d",
-        "author": "Helen Keller",
-        "tags": [
-            "inspirational"
-        ]
-    },
-    {
-        "content": "\u201cLife isn't about finding yourself. Life is about creating yourself.\u201d",
-        "author": "George Bernard Shaw",
-        "tags": [
-            "inspirational",
-            "life",
-            "yourself"
-        ]
-    },
-    {
-        "content": "\u201cThat's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.\u201d",
-        "author": "Charles Bukowski",
-        "tags": [
-            "alcohol"
-        ]
-    },
-    {
-        "content": "\u201cYou don\u2019t forget the face of the person who was your last hope.\u201d",
-        "author": "Suzanne Collins",
-        "tags": [
-            "the-hunger-games"
-        ]
-    },
-    {
-        "content": "\u201cRemember, we're madly in love, so it's all right to kiss me anytime you feel like it.\u201d",
-        "author": "Suzanne Collins",
-        "tags": [
-            "humor"
-        ]
-    },
-    {
-        "content": "\u201cTo love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.\u201d",
-        "author": "C.S. Lewis",
-        "tags": [
-            "love"
-        ]
-    },
-    {
-        "content": "\u201cNot all those who wander are lost.\u201d",
-        "author": "J.R.R. Tolkien",
-        "tags": [
-            "bilbo",
-            "journey",
-            "lost",
-            "quest",
-            "travel",
-            "wander"
-        ]
-    },
-    {
-        "content": "\u201cDo not pity the dead, Harry. Pity the living, and, above all those who live without love.\u201d",
-        "author": "J.K. Rowling",
-        "tags": [
-            "live-death-love"
-        ]
-    },
-    {
-        "content": "\u201cThere is nothing to writing. All you do is sit down at a typewriter and bleed.\u201d",
-        "author": "Ernest Hemingway",
-        "tags": [
-            "good",
-            "writing"
-        ]
-    },
-    {
-        "content": "\u201cFinish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.\u201d",
-        "author": "Ralph Waldo Emerson",
-        "tags": [
-            "life",
-            "regrets"
-        ]
-    },
-    {
-        "content": "\u201cI have never let my schooling interfere with my education.\u201d",
-        "author": "Mark Twain",
-        "tags": [
-            "education"
-        ]
-    },
-    {
-        "content": "\u201cI have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!\u201d",
-        "author": "Dr. Seuss",
-        "tags": [
-            "troubles"
-        ]
-    },
-    {
-        "content": "\u201cIf I had a flower for every time I thought of you...I could walk through my garden forever.\u201d",
-        "author": "Alfred Tennyson",
-        "tags": [
-            "friendship",
-            "love"
-        ]
-    },
-    {
-        "content": "\u201cSome people never go crazy. What truly horrible lives they must lead.\u201d",
-        "author": "Charles Bukowski",
-        "tags": [
-            "humor"
-        ]
-    },
-    {
-        "content": "\u201cThe trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.\u201d",
-        "author": "Terry Pratchett",
-        "tags": [
-            "humor",
-            "open-mind",
-            "thinking"
-        ]
-    },
-    {
-        "content": "\u201cThink left and think right and think low and think high. Oh, the thinks you can think up if only you try!\u201d",
-        "author": "Dr. Seuss",
-        "tags": [
-            "humor",
-            "philosophy"
-        ]
-    },
-    {
-        "content": "\u201cWhat really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.\u201d",
-        "author": "J.D. Salinger",
-        "tags": [
-            "authors",
-            "books",
-            "literature",
-            "reading",
-            "writing"
-        ]
-    },
-    {
-        "content": "\u201cThe reason I talk to myself is because I\u2019m the only one whose answers I accept.\u201d",
-        "author": "George Carlin",
-        "tags": [
-            "humor",
-            "insanity",
-            "lies",
-            "lying",
-            "self-indulgence",
-            "truth"
-        ]
-    },
-    {
-        "content": "\u201cYou may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.\u201d",
-        "author": "John Lennon",
-        "tags": [
-            "beatles",
-            "connection",
-            "dreamers",
-            "dreaming",
-            "dreams",
-            "hope",
-            "inspirational",
-            "peace"
-        ]
-    },
-    {
-        "content": "\u201cI am free of all prejudice. I hate everyone equally. \u201d",
-        "author": "W.C. Fields",
-        "tags": [
-            "humor",
-            "sinister"
-        ]
-    },
-    {
-        "content": "\u201cThe question isn't who is going to let me; it's who is going to stop me.\u201d",
-        "author": "Ayn Rand",
-        "tags": []
-    },
-    {
-        "content": "\u201c\u2032Classic\u2032 - a book which people praise and don't read.\u201d",
-        "author": "Mark Twain",
-        "tags": [
-            "books",
-            "classic",
-            "reading"
-        ]
-    },
-    {
-        "content": "\u201cAnyone who has never made a mistake has never tried anything new.\u201d",
-        "author": "Albert Einstein",
-        "tags": [
-            "mistakes"
-        ]
-    },
-    {
-        "content": "\u201cA lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.\u201d",
-        "author": "Jane Austen",
-        "tags": [
-            "humor",
-            "love",
-            "romantic",
-            "women"
-        ]
-    },
-    {
-        "content": "\u201cRemember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.\u201d",
-        "author": "J.K. Rowling",
-        "tags": [
-            "integrity"
-        ]
-    },
-    {
-        "content": "\u201cI declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.\u201d",
-        "author": "Jane Austen",
-        "tags": [
-            "books",
-            "library",
-            "reading"
-        ]
-    },
-    {
-        "content": "\u201cThere are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.\u201d",
-        "author": "Jane Austen",
-        "tags": [
-            "elizabeth-bennet",
-            "jane-austen"
-        ]
-    },
-    {
-        "content": "\u201cSome day you will be old enough to start reading fairy tales again.\u201d",
-        "author": "C.S. Lewis",
-        "tags": [
-            "age",
-            "fairytales",
-            "growing-up"
-        ]
-    },
-    {
-        "content": "\u201cWe are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.\u201d",
-        "author": "C.S. Lewis",
-        "tags": [
-            "god"
-        ]
-    },
-    {
-        "content": "\u201cThe fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.\u201d",
-        "author": "Mark Twain",
-        "tags": [
-            "death",
-            "life"
-        ]
-    },
-    {
-        "content": "\u201cA lie can travel half way around the world while the truth is putting on its shoes.\u201d",
-        "author": "Mark Twain",
-        "tags": [
-            "misattributed-mark-twain",
-            "truth"
-        ]
-    },
-    {
-        "content": "\u201cI believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.\u201d",
-        "author": "C.S. Lewis",
-        "tags": [
-            "christianity",
-            "faith",
-            "religion",
-            "sun"
-        ]
-    },
-    {
-        "content": "\u201cThe truth.\" Dumbledore sighed. \"It is a beautiful and terrible thing, and should therefore be treated with great caution.\u201d",
-        "author": "J.K. Rowling",
-        "tags": [
-            "truth"
-        ]
-    },
-    {
-        "content": "\u201cI'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.\u201d",
-        "author": "Jimi Hendrix",
-        "tags": [
-            "death",
-            "life"
-        ]
-    },
-    {
-        "content": "\u201cTo die will be an awfully big adventure.\u201d",
-        "author": "J.M. Barrie",
-        "tags": [
-            "adventure",
-            "love"
-        ]
-    },
-    {
-        "content": "\u201cIt takes courage to grow up and become who you really are.\u201d",
-        "author": "E.E. Cummings",
-        "tags": [
-            "courage"
-        ]
-    },
-    {
-        "content": "\u201cBut better to get hurt by the truth than comforted with a lie.\u201d",
-        "author": "Khaled Hosseini",
-        "tags": [
-            "life"
-        ]
-    },
-    {
-        "content": "\u201cYou never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.\u201d",
-        "author": "Harper Lee",
-        "tags": [
-            "better-life-empathy"
-        ]
-    },
-    {
-        "content": "\u201cYou have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.\u201d",
-        "author": "Madeleine L'Engle",
-        "tags": [
-            "books",
-            "children",
-            "difficult",
-            "grown-ups",
-            "write",
-            "writers",
-            "writing"
-        ]
-    },
-    {
-        "content": "\u201cNever tell the truth to people who are not worthy of it.\u201d",
-        "author": "Mark Twain",
-        "tags": [
-            "truth"
-        ]
-    },
-    {
-        "content": "\u201cA person's a person, no matter how small.\u201d",
-        "author": "Dr. Seuss",
-        "tags": [
-            "inspirational"
-        ]
-    },
-    {
-        "content": "\u201c... a mind needs books as a sword needs a whetstone, if it is to keep its edge.\u201d",
-        "author": "George R.R. Martin",
-        "tags": [
-            "books",
-            "mind"
-        ]
-    }
-]
+    {"id": "fa7d4387-7569-5b5e-a14d-ecea2fedcc7a", "content": "Be yourself; everyone else is already taken.", "author": "Oscar Wilde", "tags": ["inspirational", "be-yourself"]},
+    {"id": "8b6bdbad-4485-552f-8a69-862c2a90c5d6", "content": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.", "author": "Albert Einstein", "tags": ["science", "humor", "philosophy"]},
+    {"id": "d6599277-6883-568f-bbf0-199aaf8902ed", "content": "So many books, so little time.", "author": "Frank Zappa", "tags": ["books", "humor"]},
+    {"id": "28fe7f08-2922-5029-ac62-e6a9aa85868a", "content": "A room without books is like a body without a soul.", "author": "Marcus Tullius Cicero", "tags": ["simile", "books", "soul"]},
+    {"id": "c8390ce5-60e9-5b7b-a1c1-247ebdaf58d9", "content": "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.", "author": "Bernard M. Baruch", "tags": ["be-yourself"]},
+    {"id": "f0a18ec3-79e9-583d-b898-39f693f361c1", "content": "You've gotta dance like there's nobody watching,", "author": "William W. Purkey", "tags": ["love", "life", "inspirational"]},
+    {"id": "cfd39af0-5cfd-5cd0-854b-4f085f088461", "content": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.", "author": "Dr. Seuss", "tags": ["love"]},
+    {"id": "717a7193-7e5b-5120-a72f-b1cfd0ce4436", "content": "You only live once, but if you do it right, once is enough.", "author": "Mae West", "tags": ["life", "humor"]},
+    {"id": "52618223-018e-5b0f-9041-ea28b31f2aa4", "content": "Be the change that you wish to see in the world.", "author": "Mahatma Gandhi", "tags": ["change", "wish", "philosophy", "inspirational"]},
+    {"id": "2b9e77f3-4240-550d-94d6-50104ac8a6c1", "content": "In three words I can sum up everything I've learned about life: it goes on.", "author": "Robert Frost", "tags": ["life"]},
+    {"id": "9a1b62e8-e3b0-5078-ba1c-39f7c8d253cb", "content": "If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "22d3790e-e9b1-5a6b-9bea-5ec87d821306", "content": "Don\u2019t walk in front of me\u2026 I may not follow", "author": "Albert Camus", "tags": ["friendship"]},
+    {"id": "10191b83-bec4-5851-bc3c-8c856015d738", "content": "If you tell the truth, you don't have to remember anything.", "author": "Mark Twain", "tags": ["truth"]},
+    {"id": "8f646185-5121-5188-a026-afa1a3455c6e", "content": "Friendship ... is born at the moment when one man says to another \"What! You too? I thought that no one but myself . . .", "author": "C.S. Lewis,", "tags": ["friendship"]},
+    {"id": "edd80840-e6dc-5874-a581-60b54feaa9c4", "content": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.", "author": "Maya Angelou", "tags": ["unknown"]},
+    {"id": "dca7c768-f638-573e-8b80-c12cebd96e71", "content": "A friend is someone who knows all about you and still loves you.", "author": "Elbert Hubbard", "tags": ["love", "friendship", "knowledge"]},
+    {"id": "75ddda33-b335-5682-b596-f3a4d724e2ae", "content": "Always forgive your enemies; nothing annoys them so much.", "author": "Oscar Wilde", "tags": ["unknown"]},
+    {"id": "befe6dca-e68d-58e5-8b63-5c4bc1bf30e9", "content": "To live is the rarest thing in the world. Most people exist, that is all.", "author": "Oscar Wilde", "tags": ["life"]},
+    {"id": "9498486c-bac1-5b1a-a122-ad9f66667675", "content": "Live as if you were to die tomorrow. Learn as if you were to live forever.", "author": "Mahatma Gandhi", "tags": ["inspirational", "learning"]},
+    {"id": "21090641-76a1-55b2-9dc2-0f0ff556cdc8", "content": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.", "author": "Martin Luther King Jr.,", "tags": ["love", "inspirational", "peace"]},
+    {"id": "6aa6b3aa-73ee-592f-a86b-47180cc77c68", "content": "Without music, life would be a mistake.", "author": "Friedrich Nietzsche,", "tags": ["philosophy", "inspirational"]},
+    {"id": "910ec1f6-24b1-52c7-9e96-5e8459195312", "content": "I am so clever that sometimes I don't understand a single word of what I am saying.", "author": "Oscar Wilde,", "tags": ["unknown"]},
+    {"id": "86735bd9-50b6-5d86-9369-48ed268fa67e", "content": "We accept the love we think we deserve.", "author": "Stephen Chbosky,", "tags": ["love", "inspirational"]},
+    {"id": "c392005b-5190-5acc-aa9d-fe85417a3c6d", "content": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.", "author": "Ralph Waldo Emerson", "tags": ["be-yourself"]},
+    {"id": "f5cd273c-8f8f-5d9d-a9fe-d27facb78724", "content": "Insanity is doing the same thing, over and over again, but expecting different results.", "author": "Narcotics Anonymous", "tags": ["life", "humor"]},
+    {"id": "18582c02-deff-5b16-aa33-fdd303e92a2a", "content": "It is better to be hated for what you are than to be loved for what you are not.", "author": "Andre Gide,", "tags": ["love", "life"]},
+    {"id": "ea69db9b-5842-5e82-8ba4-d3150249687b", "content": "All that is gold does not glitter,", "author": "J.R.R. Tolkien,", "tags": ["unknown"]},
+    {"id": "decd696b-6d27-52f0-a640-d1ffd7e03197", "content": "It is our choices, Harry, that show what we truly are, far more than our abilities.", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "417e8b8b-b36c-5603-adf1-f165171a9c7f", "content": "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.", "author": "Jane Austen,", "tags": ["books", "humor"]},
+    {"id": "4d78bfef-f1e2-53b3-b5da-ecbe54b58c85", "content": "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.", "author": "Marilyn Monroe", "tags": ["inspirational", "be-yourself"]},
+    {"id": "24299e5a-ebc7-5001-8099-13b4e04709f9", "content": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.", "author": "Albert Einstein", "tags": ["life", "inspirational"]},
+    {"id": "14dc038e-e0c6-55c3-b404-df52dd674fa7", "content": "It does not do to dwell on dreams and forget to live.", "author": "J.K. Rowling,", "tags": ["life"]},
+    {"id": "dfed5f05-386c-5384-9a50-6a79d1b56b02", "content": "Good friends, good books, and a sleepy conscience: this is the ideal life.", "author": "Mark Twain", "tags": ["life", "books", "friendship"]},
+    {"id": "2bf011f0-0d16-5e15-8db6-51bb1147b01c", "content": "As he read, I fell in love the way you fall asleep: slowly, and then all at once.", "author": "John Green,", "tags": ["love"]},
+    {"id": "2e8ac812-6f0d-5f1a-b9b4-90c6b22cc444", "content": "We are all in the gutter, but some of us are looking at the stars.", "author": "Oscar Wilde,", "tags": ["inspirational"]},
+    {"id": "90f60aec-9f3b-56de-8fe9-c508db2b8730", "content": "It is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it.", "author": "Maurice Switzer,", "tags": ["unknown"]},
+    {"id": "eef16ac9-4171-538b-badb-9f7746895aca", "content": "The fool doth think he is wise, but the wise man knows himself to be a fool.", "author": "William Shakespeare,", "tags": ["unknown"]},
+    {"id": "821a2640-a4ad-5124-88de-77a3ef99bc42", "content": "Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.", "author": "Neil Gaiman,", "tags": ["books", "inspirational"]},
+    {"id": "7ed94b2f-afc5-5410-858d-df91435e0b4d", "content": "Whenever you find yourself on the side of the majority, it is time to reform (or pause and reflect).", "author": "Mark Twain", "tags": ["unknown"]},
+    {"id": "80497000-af4b-5618-976e-e0151ad62717", "content": "Life is what happens to us while we are making other plans.", "author": "Allen Saunders", "tags": ["life"]},
+    {"id": "250944fa-8531-53e9-997d-717bfb288f5d", "content": "Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.", "author": "Bill Keane", "tags": ["inspirational"]},
+    {"id": "755399a3-9220-5f1b-84c6-0f2aeb7b7fb4", "content": "I have not failed. I've just found 10,000 ways that won't work.", "author": "Thomas A. Edison", "tags": ["inspirational"]},
+    {"id": "bf446e0c-8ca7-589b-a571-2efb7dc81c34", "content": "A woman is like a tea bag; you never know how strong it is until it's in hot water.", "author": "Eleanor Roosevelt", "tags": ["unknown"]},
+    {"id": "80c5c9ef-c81a-52fb-9e06-f448b519be91", "content": "It is not a lack of love, but a lack of friendship that makes unhappy marriages.", "author": "Friedrich Nietzsche", "tags": ["love", "friendship"]},
+    {"id": "2c488ca9-4d74-5bbb-a9ee-4bb173d37062", "content": "The man who does not read has no advantage over the man who cannot read.", "author": "Mark Twain", "tags": ["unknown"]},
+    {"id": "c8c30984-d732-545a-955f-669a7a46d816", "content": "If you don't stand for something you will fall for anything.", "author": "Gordon A. Eadie", "tags": ["unknown"]},
+    {"id": "6fafc968-06c7-5ad0-9ea2-db4d4c7eced6", "content": "I may not have gone where I intended to go, but I think I have ended up where I needed to be.", "author": "douglas adams,", "tags": ["life"]},
+    {"id": "afc2c700-86d3-5ce8-a15e-4d9a0eed914b", "content": "I solemnly swear that I am up to no good.", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "c34f87ab-d927-522b-a617-6ee6cad7f07e", "content": "Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read.", "author": "Groucho Marx,", "tags": ["books", "humor"]},
+    {"id": "27c673fb-47d5-5560-bfb0-97bbec1f8e0f", "content": "I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.", "author": "Albert Einstein", "tags": ["inspirational"]},
+    {"id": "d9ff1f7d-d048-562d-a720-9cfbd6856063", "content": "I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.", "author": "Dr. Seuss", "tags": ["unknown"]},
+    {"id": "26c59830-6564-5f6c-9cad-458d39dbf267", "content": "Love all, trust a few, do wrong to none.", "author": "William Shakespeare,", "tags": ["love"]},
+    {"id": "135e6c29-1573-5a7b-b4b3-03cf7fda882a", "content": "Have you ever been in love? Horrible isn't it? It makes you so vulnerable. It opens your chest and it opens up your heart and it means that someone can get inside you and mess you up.", "author": "Neil Gaiman,", "tags": ["love"]},
+    {"id": "45f6098b-67be-578e-be1a-94c68b75bcc0", "content": "A day without sunshine is like, you know, night.", "author": "Steve Martin", "tags": ["simile", "humor"]},
+    {"id": "d0492faa-c436-52f3-8bd2-747ad1cf6ecc", "content": "Never put off till tomorrow what may be done day after tomorrow just as well.", "author": "Mark Twain", "tags": ["humor"]},
+    {"id": "d405c85b-9a12-5c72-a16e-295dd9c09818", "content": "A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.", "author": "George R.R. Martin,", "tags": ["reading"]},
+    {"id": "4ebd0208-8328-5d69-8c44-ec50939c0967", "content": "", "author": "Kent M. Keith,", "tags": ["happiness"]},
+    {"id": "2fb71ee2-bea6-5799-9f22-c25fede338db", "content": "That which does not kill us makes us stronger.", "author": "Friedrich Nietzsche", "tags": ["unknown"]},
+    {"id": "052a18b5-fc8b-5a3c-b588-ca22f6c5d609", "content": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.", "author": "Lao Tzu", "tags": ["love"]},
+    {"id": "2cd2d446-69fd-5a79-995f-c90c3f6cb31c", "content": "It is never too late to be what you might have been.", "author": "George Eliot", "tags": ["inspirational"]},
+    {"id": "51a0fed6-1dca-5f76-8ded-76b61bd82597", "content": "For every minute you are angry you lose sixty seconds of happiness.", "author": "Ralph Waldo Emerson", "tags": ["happiness"]},
+    {"id": "02022e2b-b270-5408-acce-ecf3171ee258", "content": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "8da67f7c-d5bb-5c98-8b8a-a114b89210cf", "content": "I love deadlines. I love the whooshing noise they make as they go by.", "author": "Douglas Adams,", "tags": ["humor"]},
+    {"id": "165dace2-edbe-53b9-bc99-50dd14695a1a", "content": "If you judge people, you have no time to love them.", "author": "Mother Teresa", "tags": ["unknown"]},
+    {"id": "c1c8807b-5e43-521f-8ca6-031304d3be74", "content": "There is never a time or place for true love. It happens accidentally, in a heartbeat, in a single flashing, throbbing moment.", "author": "Sarah Dessen,", "tags": ["love"]},
+    {"id": "97cf9cf8-9586-5244-b92e-99728d142847", "content": "If you can't explain it to a six year old, you don't understand it yourself.", "author": "Albert Einstein", "tags": ["simplicity"]},
+    {"id": "96ce221a-0e2e-52dd-be4a-4ac8fe2f6b63", "content": "I'm not upset that you lied to me, I'm upset that from now on I can't believe you.", "author": "Friedrich Nietzsche", "tags": ["unknown"]},
+    {"id": "cc8076e5-bfb0-5ea2-ba2b-f2b244aec882", "content": "Love is that condition in which the happiness of another person is essential to your own.", "author": "Robert A. Heinlein,", "tags": ["love", "happiness"]},
+    {"id": "8d6a501f-3dd6-526f-90fa-2523ad836c76", "content": "There is no greater agony than bearing an untold story inside you.", "author": "Maya Angelou,", "tags": ["inspirational"]},
+    {"id": "8d905993-06a5-5935-944d-1d2bee62c38b", "content": "Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.", "author": "Garrison Keillor", "tags": ["humor"]},
+    {"id": "2ef50f4d-0982-5ffe-a18f-ffac8291eb6e", "content": "I have always imagined that Paradise will be a kind of library.", "author": "Jorge Luis Borges", "tags": ["books"]},
+    {"id": "2f158395-1c98-54a3-b8b4-da0cae3b98f4", "content": "If you only read the books that everyone else is reading, you can only think what everyone else is thinking.", "author": "Haruki Murakami,", "tags": ["books"]},
+    {"id": "25bf24ce-9419-52ad-b991-073a5501c9d1", "content": "Everything you can imagine is real.", "author": "Pablo Picasso", "tags": ["life", "inspirational"]},
+    {"id": "43d5302b-e7a5-5794-8cfd-9399e0f0eee0", "content": "Women and cats will do as they please, and men and dogs should relax and get used to the idea.", "author": "Robert A. Heinlein", "tags": ["humor"]},
+    {"id": "302efe71-c6e9-573a-a4b8-81502095a2dc", "content": "We don't see things as they are, we see them as we are.", "author": "Ana\u00efs Nin", "tags": ["unknown"]},
+    {"id": "0451f750-08b1-59ad-9486-71d2db9a2cc1", "content": "Sometimes the questions are complicated and the answers are simple.", "author": "Dr. Seuss", "tags": ["life"]},
+    {"id": "38a16a3e-091e-5927-8336-0441ab2d0882", "content": "Never trust anyone who has not brought a book with them.", "author": "Lemony Snicket,", "tags": ["books", "reading"]},
+    {"id": "38ca9af3-797f-5a93-b2d4-deb3595e1683", "content": "You love me. Real or not real?\"", "author": "Suzanne Collins,", "tags": ["love"]},
+    {"id": "944a0ca4-dd5e-5cec-b312-06002b491db6", "content": "You can never get a cup of tea large enough or a book long enough to suit me.", "author": "C.S. Lewis", "tags": ["books", "reading", "inspirational"]},
+    {"id": "b1ee0ff4-4353-59cc-aaac-90ce196bad1f", "content": "We read to know we're not alone.", "author": "William Nicholson,", "tags": ["reading"]},
+    {"id": "081cdc5d-9a70-59f6-b8e0-45c041d28112", "content": "All you need is love. But a little chocolate now and then doesn't hurt.", "author": "Charles M. Schulz", "tags": ["humor"]},
+    {"id": "48c7dd95-1d28-51ac-8239-5052d5949382", "content": "Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.", "author": "Jim Henson", "tags": ["humor"]},
+    {"id": "30785b42-3c8d-53c6-b08a-672209b3f8de", "content": "Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "53f0ec19-8807-50be-8760-99e6c7fd66b4", "content": "It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.", "author": "J.K. Rowling", "tags": ["unknown"]},
+    {"id": "654729f2-3113-5272-a9c0-badd49c1fb27", "content": "Today you are You, that is truer than true. There is no one alive who is Youer than You.", "author": "Dr. Seuss,", "tags": ["life"]},
+    {"id": "8d9de0fc-8f69-5397-bd0e-2f5498679029", "content": "Life isn't about finding yourself. Life is about creating yourself.", "author": "George Bernard Shaw", "tags": ["life", "inspirational"]},
+    {"id": "687b07d9-8848-56b6-b9d8-756076b231ec", "content": "To the well-organized mind, death is but the next great adventure.", "author": "J.K. Rowling,", "tags": ["inspirational"]},
+    {"id": "398c5306-1c9e-5647-b473-7123fcea747f", "content": "I'm not afraid of death; I just don't want to be there when it happens.", "author": "Woody Allen", "tags": ["life", "humor"]},
+    {"id": "b9995164-4dde-5b48-b837-924442823b7f", "content": "If one cannot enjoy reading a book over and over again, there is no use in reading it at all.", "author": "Oscar Wilde", "tags": ["books", "reading"]},
+    {"id": "283d6a8f-c58d-535b-8666-8a26b7eb4428", "content": "If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.", "author": "Albert Einstein", "tags": ["unknown"]},
+    {"id": "2b45e2d6-6932-5604-a786-4ab1b5a1a22d", "content": "Have you fallen in love with the wrong person yet?'", "author": "Cassandra Clare,", "tags": ["unknown"]},
+    {"id": "3a707ede-959b-5380-aa80-d68fc4408a13", "content": "Logic will get you from A to Z; imagination will get you everywhere.", "author": "Albert Einstein", "tags": ["unknown"]},
+    {"id": "ab22690a-6889-5540-af1b-62a4737e3816", "content": "I'm in love with you,\" he said quietly.", "author": "John Green,", "tags": ["love"]},
+    {"id": "4b6a78dc-ae90-5c05-b571-c3f996dd5439", "content": "Whenever I feel the need to exercise, I lie down until it goes away.", "author": "Paul   Terry", "tags": ["humor"]},
+    {"id": "7e5f13ec-efa5-5aae-bb91-e8dd74bfe8be", "content": "Sometimes people are beautiful.", "author": "Markus Zusak,", "tags": ["life"]},
+    {"id": "bb3c04a8-9809-5b67-b1c8-d4fb31b51498", "content": "You don't get to choose if you get hurt in this world...but you do have some say in who hurts you. I like my choices.", "author": "John Green,", "tags": ["unknown"]},
+    {"id": "46cf0aa2-b857-5829-8b8b-6717b2bcb02f", "content": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.", "author": "Dr. Seuss,", "tags": ["reading", "learning"]},
+    {"id": "0b091101-d0ef-5f2b-ac8f-27f0c6eede96", "content": "The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.", "author": "Bob Marley", "tags": ["friendship"]},
+    {"id": "564d3f26-f8db-5d25-a5e1-61d51484589c", "content": "Folks are usually about as happy as they make their minds up to be.", "author": "Abraham Lincoln", "tags": ["happiness"]},
+    {"id": "be50e446-f995-57b3-b68c-72a5dd255cbd", "content": "Love looks not with the eyes, but with the mind,", "author": "William Shakespeare,", "tags": ["love"]},
+    {"id": "4c387241-81d6-57c3-a268-5ee80c69d5ad", "content": "Do what you can, with what you have, where you are.", "author": "Theodore Roosevelt", "tags": ["inspirational"]},
+    {"id": "c72478a6-1feb-5e67-adff-503dbe145711", "content": "One good thing about music, when it hits you, you feel no pain.", "author": "Bob Marley", "tags": ["unknown"]},
+    {"id": "d11880f2-1ca2-53f0-b383-eb198e0d0b18", "content": "There is no friend as loyal as a book.", "author": "Ernest Hemingway", "tags": ["books"]},
+    {"id": "baba82c5-ad04-55d9-8c22-3dc4984c4558", "content": "I find television very educating. Every time somebody turns on the set, I go into the other room and read a book.", "author": "Groucho Marx", "tags": ["books", "reading", "humor"]},
+    {"id": "3bf6940c-13e8-5ab5-84a0-d4c94d877ba6", "content": "Not all of us can do great things. But we can do small things with great love.", "author": "Mother Teresa", "tags": ["unknown"]},
+    {"id": "007e7178-80f1-54c5-ab2f-e3ffe7dd1fde", "content": "The story so far:", "author": "Douglas Adams,", "tags": ["humor"]},
+    {"id": "e28fb9e3-517c-5c0f-8da2-fd56f0a42d28", "content": "Love is like the wind, you can't see it but you can feel it.", "author": "Nicholas Sparks,", "tags": ["love", "simile"]},
+    {"id": "0790d59e-e047-5f3c-9c58-26aa0fc2b950", "content": "If you live to be a hundred, I want to live to be a hundred minus one day so I never have to live without you.", "author": "Joan Powers,", "tags": ["friendship"]},
+    {"id": "7083f3aa-64dc-57aa-91cf-673be3861259", "content": "Success is not final, failure is not fatal: it is the courage to continue that counts.", "author": "Winston S. Churchill", "tags": ["success", "inspirational"]},
+    {"id": "be0f0c4e-25a2-5056-9840-9c160cac1196", "content": "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.", "author": "Helen Keller", "tags": ["inspirational"]},
+    {"id": "f52e7d51-7af4-5768-831e-f3a955b26e7d", "content": "It matters not what someone is born, but what they grow to be.", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "f3f9f87a-450b-5d9a-8a4f-4f04c69abb92", "content": "You don't love someone because they're perfect, you love them in spite of the fact that they're not.", "author": "Jodi Picoult,", "tags": ["love"]},
+    {"id": "fb289440-c7fd-5d6e-afc0-73ebf5d44b05", "content": "Life is like riding a bicycle. To keep your balance, you must keep moving.", "author": "Albert Einstein", "tags": ["simile", "life"]},
+    {"id": "4ac4db4c-7384-5cbd-90ab-d273271cbb96", "content": "So, this is my life. And I want you to know that I am both happy and sad and I'm still trying to figure out how that could be.", "author": "Stephen Chbosky,", "tags": ["inspirational"]},
+    {"id": "271a1924-b3f4-5f2b-bce3-6f23c9d1ebee", "content": "The difference between genius and stupidity is: genius has its limits.", "author": "Alexandre Dumas-fils", "tags": ["unknown"]},
+    {"id": "d9ecd069-0fe0-5677-919e-b4ce4a11189a", "content": "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.", "author": "Jane Austen,", "tags": ["love", "friendship"]},
+    {"id": "f1c1ed31-84ab-510a-91b7-9caf232ffd4c", "content": "Some people never go crazy. What truly horrible lives they must lead.", "author": "Charles Bukowski", "tags": ["humor"]},
+    {"id": "03de5279-3904-59f4-93a8-176b179aff7b", "content": "You don\u2019t", "author": "Walter M. Miller Jr.,", "tags": ["unknown"]},
+    {"id": "76c0355a-47c0-5317-837b-14093c4cfd9c", "content": "If you can make a woman laugh, you can make her do anything.", "author": "Marilyn Monroe", "tags": ["love"]},
+    {"id": "eba14276-8208-5a74-833c-714d154b8379", "content": "I would venture to guess that Anon, who wrote so many poems without signing them, was often a woman.", "author": "Virginia Woolf,", "tags": ["unknown"]},
+    {"id": "1ebf3f0a-ca27-5fa8-aaae-d7af7602b694", "content": "Some infinities are bigger than other infinities.", "author": "John Green,", "tags": ["life"]},
+    {"id": "5ca49351-8036-558a-ad3d-3236ce3219b8", "content": "Do one thing every day that scares you.", "author": "Eleanor Roosevelt", "tags": ["unknown"]},
+    {"id": "eaa078ac-034e-5a69-b664-f65707934481", "content": "It is what you read when you don't have to that determines what you will be when you can't help it.", "author": "Oscar Wilde", "tags": ["books", "reading"]},
+    {"id": "a885bd8a-71e2-5946-abca-27bd6c903844", "content": "The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.", "author": "Terry Pratchett,", "tags": ["humor"]},
+    {"id": "5acb3d2f-4896-592d-a0fe-789e74c0538f", "content": "If I had a flower for every time I thought of you...I could walk through my garden forever.", "author": "Alfred Tennyson", "tags": ["love", "friendship"]},
+    {"id": "082a5b2e-390d-51cf-b89f-2c7c67b91783", "content": "Time you enjoy wasting is not wasted time.", "author": "Marthe Troly-Curtin,", "tags": ["happiness"]},
+    {"id": "5c0745fe-1d1f-5653-a022-47f95543ab4d", "content": "Not all those who wander are lost.", "author": "J.R.R. Tolkien,", "tags": ["unknown"]},
+    {"id": "54ba4593-70c6-5437-955c-572d873adf06", "content": "Reality continues to ruin my life.", "author": "Bill Watterson,", "tags": ["life", "humor"]},
+    {"id": "e7775325-fc72-55c9-9db8-d93aa3cc8c2e", "content": "One must always be careful of books,\" said Tessa, \"and what is inside them, for words have the power to change us.", "author": "Cassandra Clare,", "tags": ["books"]},
+    {"id": "35b3e3e1-80d7-5d79-b814-0a1e90078018", "content": "There is no pretending,\" Jace said with absolute clarity. \"I love you, and I will love you until I die, and if there is life after that, I'll love you then.", "author": "Cassandra Clare,", "tags": ["unknown"]},
+    {"id": "2e711cbd-853a-5c4e-b6c7-46a589e9b497", "content": "Things change. And friends leave. Life doesn't stop for anybody.", "author": "Stephen Chbosky,", "tags": ["life", "change"]},
+    {"id": "d01bc9b8-6240-53b7-a1ed-cf699e58920e", "content": "Who are you to judge the life I live?", "author": "Bob Marley", "tags": ["life"]},
+    {"id": "7cebfaea-945d-586c-9212-f68f636b7e1e", "content": "The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.", "author": "Marilyn Monroe", "tags": ["love"]},
+    {"id": "24f98411-d53a-55fa-93cf-6badf708449f", "content": "Piglet sidled up to Pooh from behind.", "author": "A.A. Milne,", "tags": ["friendship"]},
+    {"id": "356edd3e-dfbe-5597-a2d3-f5df1f120e4b", "content": "He's like a drug for you, Bella.", "author": "Stephenie Meyer,", "tags": ["simile"]},
+    {"id": "15c93e23-ee29-5f86-bf65-055588ea9a7d", "content": "If there's a book that you want to read, but it hasn't been written yet, then you must write it.", "author": "Toni Morrison", "tags": ["books"]},
+    {"id": "14725e6e-272a-5ea4-8785-76f92f396ecb", "content": "The only way out of the labyrinth of suffering is to forgive.", "author": "John Green,", "tags": ["life"]},
+    {"id": "94972985-46d3-5cb7-93a3-372a1a6d0e67", "content": "A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.", "author": "Marilyn Monroe", "tags": ["unknown"]},
+    {"id": "13119736-02dc-5515-a6c0-e06eb23164e1", "content": "Do not pity the dead, Harry. Pity the living, and, above all those who live without love.", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "84a1e191-5583-5b5d-b617-d48bdd209c9b", "content": "The reason I talk to myself is because I\u2019m the only one whose answers I accept.", "author": "George Carlin", "tags": ["truth", "humor"]},
+    {"id": "a27fb236-35a1-5800-b1be-15e05854af49", "content": "Go to heaven for the climate and hell for the company.", "author": "Benjamin Franklin Wade", "tags": ["humor", "philosophy"]},
+    {"id": "b24b6c20-2394-5c8d-88f9-29aa8972749a", "content": "Dumbledore watched her fly away, and as her silvery glow faded he turned back to Snape, and his eyes were full of tears.", "author": "J.K. Rowling,", "tags": ["love", "life"]},
+    {"id": "a5d9d043-4102-588f-a793-954f3b5d4158", "content": "When someone loves you, the way they talk about you is different. You feel safe and comfortable.", "author": "Jess C. Scott,", "tags": ["love", "life", "truth", "friendship"]},
+    {"id": "5d42a835-0a7a-5c09-b6a4-3771554e8b8c", "content": "There is nothing to writing. All you do is sit down at a typewriter and bleed.", "author": "Ernest Hemingway", "tags": ["unknown"]},
+    {"id": "30936a6c-909b-5ddb-adda-9305f9822172", "content": "You should date a girl who reads.", "author": "Rosemarie Urquico", "tags": ["unknown"]},
+    {"id": "8b82c154-cb3d-51d3-92c5-43f30d766e65", "content": "I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.", "author": "Marilyn Monroe", "tags": ["unknown"]},
+    {"id": "c25c77ae-4b19-5bd2-9d82-426c53ec0fbc", "content": "I wish it need not have happened in my time,\" said Frodo.", "author": "J.R.R. Tolkien,", "tags": ["unknown"]},
+    {"id": "4e1e25bb-66c0-5e2b-89a8-667eeea98049", "content": "He has achieved success who has lived well, laughed often, and loved much;", "author": "Bessie Anderson Stanley,", "tags": ["life", "success"]},
+    {"id": "a04be70b-c268-5ddc-ad54-6d62cae7be12", "content": "And, when you want something, all the universe conspires in helping you to achieve it.", "author": "Paulo Coelho,", "tags": ["inspirational"]},
+    {"id": "faec946c-1537-55af-8c0e-aef6f80369bd", "content": "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.", "author": "John Lennon", "tags": ["inspirational", "peace"]},
+    {"id": "bc43cf8d-c6dd-5c27-bcfd-def57a220277", "content": "I love mankind ... it's people I can't stand!!", "author": "Charles M. Schulz", "tags": ["humor"]},
+    {"id": "b2fcc22d-aa55-5eda-ad30-ee8dfb2e6ef6", "content": "You don\u2019t forget the face of the person who was your last hope.", "author": "Suzanne Collins,", "tags": ["unknown"]},
+    {"id": "781244cd-d908-5d4d-8cee-d9b8344758c2", "content": "\u2032Classic\u2032 - a book which people praise and don't read.", "author": "Mark Twain", "tags": ["books", "reading"]},
+    {"id": "f3fc9ec7-6012-5c86-a167-976bd59e1e9a", "content": "I am free of all prejudice. I hate everyone equally. ", "author": "W.C. Fields", "tags": ["humor"]},
+    {"id": "f86101d3-fe92-5e74-adee-5b273c2423ba", "content": "I have never let my schooling interfere with my education.", "author": "Mark Twain", "tags": ["unknown"]},
+    {"id": "d702a3ac-6cd0-50d3-b503-76ca37c81f87", "content": "The marks humans leave are too often scars.", "author": "John Green,", "tags": ["unknown"]},
+    {"id": "1692e2bd-5f5d-5fea-8104-466eec521060", "content": "Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.", "author": "Suzanne Collins,", "tags": ["humor"]},
+    {"id": "c6077aa7-206f-5d4d-909d-6ed8388a2f9a", "content": "You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.", "author": "Harper Lee,", "tags": ["unknown"]},
+    {"id": "d42adcf7-158d-5f25-a5ff-1b3ef98b85c1", "content": "The books that the world calls immoral are books that show the world its own shame.", "author": "Oscar Wilde,", "tags": ["books", "reading"]},
+    {"id": "4f1ef2c6-928e-5064-b40c-16a04f6c1f4b", "content": "What a slut time is. She screws everybody.", "author": "John Green,", "tags": ["unknown"]},
+    {"id": "bb4c546f-ea5d-5179-ba07-a1ad94bc635f", "content": "To die will be an awfully big adventure.", "author": "J.M. Barrie,", "tags": ["love"]},
+    {"id": "9725e3a6-b1d6-5f93-a063-44766f8f5d62", "content": "A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.", "author": "Jane Austen,", "tags": ["love", "humor"]},
+    {"id": "b1671204-5ebd-54ba-8bbb-26af638f4044", "content": "Anyone who has never made a mistake has never tried anything new.", "author": "Albert Einstein", "tags": ["unknown"]},
+    {"id": "8e7db6f0-30dd-5005-a77c-857856d16a93", "content": "It takes courage to grow up and become who you really are.", "author": "E.E. Cummings", "tags": ["unknown"]},
+    {"id": "6b04592a-fa3d-52a3-a12b-63b5aac020c6", "content": "Some day you will be old enough to start reading fairy tales again.", "author": "C.S. Lewis", "tags": ["unknown"]},
+    {"id": "5acb33af-0843-5a9e-8332-3fe2306d3dfb", "content": "We are what we pretend to be, so we must be careful about what we pretend to be.", "author": "Kurt Vonnegut,", "tags": ["life"]},
+    {"id": "72c73165-e4ad-5075-b57a-8a79d0c16b71", "content": "Books are the ultimate Dumpees: put them down and they\u2019ll wait for you forever; pay attention to them and they always love you back.", "author": "John Green,", "tags": ["books", "reading"]},
+    {"id": "fa4cb80c-2f75-5847-a5fd-404e0e61c039", "content": "You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.", "author": "Madeleine L'Engle", "tags": ["books"]},
+    {"id": "4b4f475d-581b-5b49-b3e8-a03414d0bb01", "content": "I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.", "author": "Jimi Hendrix,", "tags": ["life"]},
+    {"id": "a7bafa4c-25a9-5794-b0c9-ebaaa0913afe", "content": "We believe in ordinary acts of bravery, in the courage that drives one person to stand up for another.", "author": "Veronica Roth,", "tags": ["unknown"]},
+    {"id": "8879d56b-da95-5e27-b9c3-c25a095d7c9e", "content": "It\u2019s no use going back to yesterday, because I was a different person then.", "author": "Lewis Carroll", "tags": ["humor", "inspirational"]},
+    {"id": "406b1a16-6961-580d-9385-562745b87f83", "content": "There is nothing better than a friend, unless it is a friend with chocolate.", "author": "Linda Grayson", "tags": ["friendship"]},
+    {"id": "39992b7b-a5d0-5158-8187-664a7b8a433f", "content": "But better to get hurt by the truth than comforted with a lie.", "author": "Khaled Hosseini", "tags": ["life"]},
+    {"id": "b4208238-fd9b-5e95-ae4e-cd9abbd3a75d", "content": "[Dean] My dear fellow, who will let you?", "author": "Ayn Rand,", "tags": ["unknown"]},
+    {"id": "bff4ff2d-c190-506f-a29d-cc446ce400c2", "content": "And in that moment, I swear we were infinite.", "author": "Stephen Chbosky,", "tags": ["unknown"]},
+    {"id": "9be2ae41-a7a4-5456-a96f-a2ac0ef46b3b", "content": "Books are a uniquely portable magic.", "author": "Stephen King,", "tags": ["books", "reading"]},
+    {"id": "e4648a8d-bbef-5819-b863-ebc8db997e55", "content": "The truth.\" Dumbledore sighed. \"It is a beautiful and terrible thing, and should therefore be treated with great caution.", "author": "J.K. Rowling,", "tags": ["truth"]},
+    {"id": "817f7f93-e0f2-5472-af9b-08546743cd5c", "content": "... a mind needs books as a sword needs a whetstone, if it is to keep its edge.", "author": "George R.R. Martin,", "tags": ["books"]},
+    {"id": "64b0c9c4-66cb-50a9-9a7b-8b7b1de5efd5", "content": "The truth is rarely pure and never simple.", "author": "Oscar Wilde,", "tags": ["truth"]},
+    {"id": "9aa92a8d-b71e-5824-bbb7-6994175c652a", "content": "I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.", "author": "C.S. Lewis", "tags": ["faith"]},
+    {"id": "c7ebc6f9-72af-5347-b9fb-bdf0d2afc8bd", "content": "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.", "author": "Mark Twain", "tags": ["life"]},
+    {"id": "a4734021-57cf-5616-8c22-99b55a0fe74f", "content": "A lie can travel half way around the world while the truth is putting on its shoes.", "author": "Mark Twain", "tags": ["truth"]},
+    {"id": "ea50b927-ba01-5014-b518-9587f9bcbd62", "content": "Memories warm you up from the inside. But they also tear you apart.", "author": "Haruki Murakami,", "tags": ["unknown"]},
+    {"id": "5839363b-1b68-5dfc-bd29-2ffdb18993fd", "content": "Never tell the truth to people who are not worthy of it.", "author": "Mark Twain", "tags": ["truth"]},
+    {"id": "720b29ae-6e9d-5cb0-af54-a5ba06eb831b", "content": "Be nice to nerds. You may end up working for them. We all could.", "author": "Charles J. Sykes,", "tags": ["humor"]},
+    {"id": "d2258195-aa45-50af-a727-eaf4dd4d001e", "content": "Just when you think it can't get any worse, it can. And just when you think it can't get any better, it can.", "author": "Nicholas Sparks,", "tags": ["love", "life"]},
+    {"id": "f245581f-7f31-5968-8105-bd35b9234053", "content": "Tis better to have loved and lost", "author": "Alfred Lord Tennyson,", "tags": ["love"]},
+    {"id": "7915965e-4e5b-5671-ab2d-183ef0e33b2f", "content": "It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.", "author": "Chuck Palahniuk,", "tags": ["happiness", "peace"]},
+    {"id": "8bd366fe-8f32-5d4f-ac2e-9f59ea012ee6", "content": "Knowing yourself is the beginning of all wisdom.", "author": "Aristotle", "tags": ["unknown"]},
+    {"id": "0dd20702-d699-5b06-ad7f-63a96291b37a", "content": "Do you remember me telling you we are practicing non-verbal spells, Potter?\"", "author": "J.K. Rowling,", "tags": ["humor"]},
+    {"id": "8c6292ff-22b2-5c8a-b49a-25d4f31213d2", "content": "I love you as certain dark things are to be loved,", "author": "Pablo Neruda,", "tags": ["love"]},
+    {"id": "3265dbd4-0cf3-5d89-aa05-700b4a80685b", "content": "Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them.", "author": "William Shakespeare,", "tags": ["unknown"]},
+    {"id": "40b81864-5c6f-5c03-8b88-81041de25b5c", "content": "What you're supposed to do when you don't like a thing is change it. If you can't change it, change the way you think about it. Don't complain.", "author": "Maya Angelou,", "tags": ["inspirational"]},
+    {"id": "cbee7c8a-b955-5e41-8e44-2ecafca12ba5", "content": "It's the possibility of having a dream come true that makes life interesting.", "author": "Paulo Coelho,", "tags": ["inspirational"]},
+    {"id": "bbe5fce0-d6a5-5da1-bb54-0ce3f8ed61c1", "content": "Only the very weak-minded refuse to be influenced by literature and poetry.", "author": "Cassandra Clare,", "tags": ["books", "reading"]},
+    {"id": "1c9e6028-bc3d-5a88-836e-802b521beb29", "content": "A day without laughter is a day wasted.", "author": "Nicolas Chamfort", "tags": ["philosophy"]},
+    {"id": "4971b03f-0106-5438-aa89-75e165f61e93", "content": "Happiness in intelligent people is the rarest thing I know.", "author": "Ernest Hemingway,", "tags": ["happiness"]},
+    {"id": "b1efa63c-c820-5b56-b77e-720507d217f0", "content": "A person's a person, no matter how small.", "author": "Dr. Seuss,", "tags": ["inspirational"]},
+    {"id": "927e1e0a-63f9-52df-81a8-430cc8a6b3ae", "content": "The only true wisdom is in knowing you know nothing.", "author": "Socrates", "tags": ["knowledge"]},
+    {"id": "b52695d1-0562-54d7-899c-03f05e00eecf", "content": "Yes: I am a dreamer. For a dreamer is one who can only find his way by moonlight, and his punishment is that he sees the dawn before the rest of the world.", "author": "Oscar Wilde,", "tags": ["unknown"]},
+    {"id": "cb2b2f12-e8d4-51f2-9eeb-93d4cf739dbd", "content": "Thomas Edison's last words were \"", "author": "John Green,", "tags": ["unknown"]},
+    {"id": "de7b91bc-5d25-58a8-afb7-a76e1cd1763d", "content": "Perhaps one did not want to be loved so much as to be understood.", "author": "George Orwell,", "tags": ["truth"]},
+    {"id": "f27f397b-d30f-571c-8abc-37a7baa177d9", "content": "I finally understood what true love meant...love meant that you care for another person's happiness more than your own, no matter how painful the choices you face might be.", "author": "Nicholas Sparks,", "tags": ["unknown"]},
+    {"id": "00221a9e-6f00-553c-9dd3-2d1b5399ff9e", "content": "Jesus!\" Luke exclaimed.", "author": "Cassandra Clare", "tags": ["humor"]},
+    {"id": "02cce073-66fe-5e42-8bb1-afbb791b5e8a", "content": "Oh, I wouldn't mind, Hazel Grace. It would be a privilege to have my heart broken by you.", "author": "John Green,", "tags": ["unknown"]},
+    {"id": "6405a3dd-11d1-51ca-b6a7-7dd2bce90f71", "content": "I became insane, with long intervals of horrible sanity.", "author": "Edgar Allan Poe", "tags": ["unknown"]},
+    {"id": "e0ce7f73-5eee-545f-bfd0-433d38658884", "content": "Numbing the pain for a while will make it worse when you finally feel it.", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "8cc1027d-1da4-5010-a647-1ff83e992da3", "content": "Just because you have the emotional range of a teaspoon doesn't mean we all have.", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "9496bb08-6da9-520d-b147-3d53f76c8028", "content": "It is one of the blessings of old friends that you can afford to be stupid with them.", "author": "Ralph Waldo Emerson,", "tags": ["unknown"]},
+    {"id": "cb46d230-4ce1-5cc9-819a-ea3f103054f9", "content": "Be careful about reading health books. Some fine day you'll die of a misprint.", "author": "Markus Herz", "tags": ["books", "humor"]},
+    {"id": "d26fee8f-c61d-5f2e-8aa8-2148ab119c8d", "content": "The one you love and the one who loves you are never, ever the same person.", "author": "Chuck Palahniuk,", "tags": ["love", "life"]},
+    {"id": "3d000e14-5023-513c-8d32-e32412c32875", "content": "You can never be overdressed or overeducated.", "author": "Oscar Wilde", "tags": ["unknown"]},
+    {"id": "d54949a6-7a86-5bd9-9996-6636213e5484", "content": "Have you ever noticed how \u2018What the hell\u2019 is always the right decision to make?", "author": "Terry Johnson,", "tags": ["humor", "philosophy"]},
+    {"id": "9247fc24-43ff-5697-8ee2-a24ca77303c5", "content": "Books are the quietest and most constant of friends; they are the most accessible and wisest of counselors, and the most patient of teachers.", "author": "Charles W. Eliot", "tags": ["books", "reading"]},
+    {"id": "c0f5352e-1091-5e85-ad13-31586fce588f", "content": "Those who don't believe in magic will never find it.", "author": "Roald Dahl", "tags": ["unknown"]},
+    {"id": "96071768-c54a-5fab-a2d1-a289ed39a8bd", "content": "An eye for an eye will only make the whole world blind.", "author": "Mahatma Gandhi", "tags": ["peace"]},
+    {"id": "fe6279f3-768f-5166-a419-eb7c2ca036b5", "content": "You can't live your life for other people. You've got to do what's right for you, even if it hurts some people you love.", "author": "Nicholas Sparks,", "tags": ["inspirational"]},
+    {"id": "643fe229-b4ba-5cd4-8542-caae273de4b4", "content": "If you're gonna be two-faced at least make one of them pretty.", "author": "Marilyn Monroe", "tags": ["unknown"]},
+    {"id": "9533ae2d-2192-5d8c-ae21-65b7f2395477", "content": "I would rather walk with a friend in the dark, than alone in the light.", "author": "Helen Keller", "tags": ["friendship"]},
+    {"id": "1f1156d2-a7b0-5b64-b0d0-e9ca3422e714", "content": "So I walked back to my room and collapsed on the bottom bunk, thinking that if people were rain, I was drizzle and she was a hurricane.", "author": "John Green,", "tags": ["unknown"]},
+    {"id": "058c1e82-4784-5714-acf4-1e1b7263dd03", "content": "Until I feared I would lose it, I never loved to read. One does not love breathing.", "author": "Harper Lee,", "tags": ["reading"]},
+    {"id": "0f69335d-5b28-5c67-89d3-1401a3836969", "content": "I speak to everyone in the same way, whether he is the garbage man or the president of the university.", "author": "Albert Einstein", "tags": ["life"]},
+    {"id": "15bbd06d-9e41-5b93-94f5-d5d2511e3de9", "content": "A great book should leave you with many experiences, and slightly exhausted at the end. You live several lives while reading.", "author": "William Styron,", "tags": ["books", "reading"]},
+    {"id": "2bc0849b-c21e-53d9-9431-74d2de3019e4", "content": "The truth will set you free, but first it will piss you off.", "author": "Joe Klaas,", "tags": ["truth"]},
+    {"id": "9fdd0e01-b71f-536c-b493-e38cc3520d06", "content": "Music expresses that which cannot be put into words and that which cannot remain silent", "author": "Victor hugo", "tags": ["unknown"]},
+    {"id": "bd27bb5b-22f6-55c5-8661-cea983988a12", "content": "Is this the part where you start tearing off strips of your shirt to bind my wounds?\"", "author": "Cassandra Clare,", "tags": ["unknown"]},
+    {"id": "b56cc749-6333-57c9-a767-da9c397ec454", "content": "Creativity is knowing how to hide your sources", "author": "C.E.M. Joad", "tags": ["humor"]},
+    {"id": "7853debc-5859-5baf-b6e4-fb6abe89a6c3", "content": "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.", "author": "Isaac Asimov", "tags": ["life", "science"]},
+    {"id": "eb011a0c-6a80-5ec6-ad8b-7ddaef67d42e", "content": "Do you hate people?", "author": "Charles Bukowski,", "tags": ["unknown"]},
+    {"id": "60d846f4-d7dc-5c44-93d8-f8be3f494f22", "content": "Fate is like a strange, unpopular restaurant filled with odd little waiters who bring you things you never asked for and don't always like.", "author": "Lemony Snicket", "tags": ["simile", "humor"]},
+    {"id": "840a51dc-e126-5d20-9d8a-10f7bdcc98d4", "content": "A children's story that can only be enjoyed by children is not a good children's story in the slightest.", "author": "C.S. Lewis", "tags": ["books", "reading"]},
+    {"id": "1aa154aa-cef4-5251-a049-c8d6b192c674", "content": "How wonderful it is that nobody need wait a single moment before starting to improve the world.", "author": "Anne Frank,", "tags": ["life", "philosophy"]},
+    {"id": "e0f68057-bdeb-5d84-a71a-8b02cd295844", "content": "The Seven Social Sins are:", "author": "Frederick Lewis Donaldson", "tags": ["science", "happiness", "knowledge"]},
+    {"id": "ddc74eee-29ce-5a08-86c9-9a61a8c6bef2", "content": "If you don't have time to read, you don't have the time (or the tools) to write. Simple as that.", "author": "Stephen King", "tags": ["reading"]},
+    {"id": "38e75be7-2979-5aeb-a064-bde87c94228b", "content": "I wish I could freeze this moment, right here, right now and live in it forever.", "author": "Suzanne Collins,", "tags": ["unknown"]},
+    {"id": "6eac02a0-a9f5-51f0-8e32-a8d6393e54cc", "content": "The statistics on sanity are that one out of every four people is suffering from a mental illness. Look at your 3 best friends. If they're ok, then it's you.", "author": "Rita Mae Brown", "tags": ["humor"]},
+    {"id": "672cbb1c-2755-5de1-9c40-a035bbeef080", "content": "I am no bird; and no net ensnares me: I am a free human being with an independent will.", "author": "Charlotte Bront\u00eb,", "tags": ["unknown"]},
+    {"id": "d47269ab-62da-5139-9042-b182d5a57c3e", "content": "Life is an awful, ugly place to not have a best friend.", "author": "Sarah Dessen,", "tags": ["friendship"]},
+    {"id": "f1ca2a43-dd35-50ff-b976-4ad57dfc8f80", "content": "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.", "author": "Albert Camus", "tags": ["happiness"]},
+    {"id": "991cbefa-5548-55c6-9530-57b14ec07973", "content": "Happiness is when what you think, what you say, and what you do are in harmony.", "author": "Mahatma Gandhi", "tags": ["happiness"]},
+    {"id": "56448bb2-f777-57d3-ad3b-b06e0063de12", "content": "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.", "author": "Mark Twain", "tags": ["unknown"]},
+    {"id": "392c055d-f116-5a66-8a2a-b1138b03c660", "content": "Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armour yourself in it, and it will never be used to hurt you.", "author": "George R.R. Martin,", "tags": ["unknown"]},
+    {"id": "7b6e469d-e8d7-580d-87cc-969f96705465", "content": "I don't want to be a man,\" said Jace. \"I want to be an angst-ridden teenager who can't confront his own inner demons and takes it out verbally on other people instead.\"", "author": "Cassandra Clare,", "tags": ["humor"]},
+    {"id": "d3284f70-c20e-5106-808a-54245fb9ad29", "content": "When we love, we always strive to become better than we are. When we strive to become better than we are, everything around us becomes better too.", "author": "Paulo Coelho,", "tags": ["love"]},
+    {"id": "e727d3e8-26f1-5997-98b2-ea2bbeb0e9c0", "content": "Well-behaved women seldom make history.", "author": "Laurel Thatcher Ulrich,", "tags": ["inspirational"]},
+    {"id": "a9a5f575-2c6a-5095-8389-dc9825f4fd5c", "content": "We're all human, aren't we? Every human life is worth the same, and worth saving.", "author": "J.K. Rowling,", "tags": ["life"]},
+    {"id": "cf0bea02-d3dd-5a14-9ef3-b1ba838c0db8", "content": "Give a man a fire and he's warm for a day, but set fire to him and he's warm for the rest of his life.", "author": "Terry Pratchett,", "tags": ["humor"]},
+    {"id": "098d0ed5-7c01-55eb-a140-98a9b6aeb8b7", "content": "Being a woman is a terribly difficult trade since it consists principally of dealings with men.", "author": "Joseph Conrad,", "tags": ["unknown"]},
+    {"id": "44ced984-de94-51d6-8a64-3c5dc75871bb", "content": "With great power... comes great need to take a nap. Wake me up later.", "author": "Rick Riordan,", "tags": ["unknown"]},
+    {"id": "cae5a5e9-212d-5bdc-bca9-321712038026", "content": "The world is not a wish-granting factory.", "author": "John Green,", "tags": ["unknown"]},
+    {"id": "b16c2f12-4eb9-54b9-82ec-8ba5abc0b94a", "content": "It's the friends you can call up at 4 a.m. that matter.", "author": "Marlene Dietrich", "tags": ["unknown"]},
+    {"id": "2dc2c28e-7c04-5950-91a2-3bc95861869a", "content": "One is loved because one is loved. No reason is needed for loving.", "author": "Paulo Coelho,", "tags": ["love"]},
+    {"id": "7c8a3709-13de-593b-9b6f-edd75da81603", "content": "Everyone thinks of changing the world, but no one thinks of changing himself.", "author": "Leo Tolstoy", "tags": ["change"]},
+    {"id": "2a1d11d3-5b4f-53a1-a65d-e4fea6e9998b", "content": "Becoming fearless isn't the point. That's impossible. It's learning how to control your fear, and how to be free from it.", "author": "Veronica Roth,", "tags": ["unknown"]},
+    {"id": "c386c419-e7e4-5171-b6cb-50fba49ad388", "content": "If we find ourselves with a desire that nothing in this world can satisfy, the most probable explanation is that we were made for another world.", "author": "C.S. Lewis", "tags": ["god"]},
+    {"id": "c633c7b3-b2c4-5274-b894-c1d7797a670a", "content": "It's far better to be unhappy alone than unhappy with someone \u2014 so far.", "author": "Marilyn Monroe", "tags": ["unknown"]},
+    {"id": "abc064a6-6590-53a1-a14e-f7e9d5fd032b", "content": "Sometimes you have to be apart from people you love, but that doesn't make you love them any less. Sometimes you love them more.", "author": "Nicholas Sparks,", "tags": ["unknown"]},
+    {"id": "51c8cbd6-e260-5862-a92e-47124a8c4c85", "content": "The Road Not Taken", "author": "Robert Frost", "tags": ["unknown"]},
+    {"id": "fe3ff2f0-0a41-5a2f-b9ac-2c577f1941cf", "content": "And above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places. Those who don't believe in magic will never find it.", "author": "Roald Dahl", "tags": ["unknown"]},
+    {"id": "5406d341-a969-5e96-8a6a-430ac993aaa7", "content": "I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.", "author": "J.R.R. Tolkien,", "tags": ["unknown"]},
+    {"id": "8dc4820c-45b6-5dc5-bdd0-e08440f8cc84", "content": "I am not pretty. I am not beautiful. I am as radiant as the sun.", "author": "Suzanne Collins,", "tags": ["truth"]},
+    {"id": "de0e83e2-9f21-5d92-a794-6282950e5927", "content": "There's nothing like deep breaths after laughing that hard. Nothing in the world like a sore stomach for the right reasons.", "author": "Stephen Chbosky,", "tags": ["happiness"]},
+    {"id": "a119fe26-2238-5791-a092-6482ac8e6a46", "content": "So we beat on, boats against the current, borne back ceaselessly into the past.", "author": "F. Scott Fitzgerald,", "tags": ["inspirational"]},
+    {"id": "8557578f-260e-59b9-86d7-64164687bb96", "content": "Lock up your libraries if you like; but there is no gate, no lock, no bolt that you can set upon the freedom of my mind.", "author": "Virginia Woolf,", "tags": ["unknown"]},
+    {"id": "f8f118b6-a75e-5051-ae10-97ea4b08a84f", "content": "If you don't know where you're going, any road'll take you there", "author": "George Harrison", "tags": ["life"]},
+    {"id": "bfe7f10b-19c9-5b39-8b31-ce73279f9fd7", "content": "Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad.", "author": "Henry Wadsworth Longfellow", "tags": ["life", "happiness"]},
+    {"id": "3333d3cf-3aff-5707-a53b-90a708b7f469", "content": "You can love someone so much...But you can never love people as much as you can miss them.", "author": "John Green", "tags": ["unknown"]},
+    {"id": "a511a0c7-f44e-5dbd-955c-01bdeb1c6f35", "content": "Nothing is impossible, the word itself says 'I'm possible'!", "author": "Audrey Hepburn", "tags": ["inspirational"]},
+    {"id": "739332c0-756d-5b0e-a29e-7fcd9ad78287", "content": "All God does is watch us and kill us when we get boring. We must never, ever be boring.", "author": "Chuck Palahniuk,", "tags": ["life", "god", "humor"]},
+    {"id": "5a54b3b7-154f-51d9-9a9d-3b39c84c7bd5", "content": "Love is needing someone. Love is putting up with someone's bad qualities because they somehow complete you.", "author": "Sarah Dessen,", "tags": ["love"]},
+    {"id": "cd49dc68-80c3-5afb-8db2-818eda70ec73", "content": "You don't have to burn books to destroy a culture. Just get people to stop reading them.", "author": "Ray Bradbury", "tags": ["reading"]},
+    {"id": "4202501e-bbc4-56be-8335-0fbb367d5990", "content": "We love the things we love for what they are.", "author": "Robert Frost", "tags": ["love"]},
+    {"id": "703dc113-ade2-594f-81d6-d88dc3838fd8", "content": "What is the point of being alive if you don't at least try to do something remarkable?", "author": "John Green,", "tags": ["unknown"]},
+    {"id": "2117069f-10a7-5738-8079-fefbfeb24d6d", "content": "There is only one thing that makes a dream impossible to achieve: the fear of failure.", "author": "Paulo Coelho,", "tags": ["unknown"]},
+    {"id": "e529c84f-c11d-5382-9924-decebc7b1030", "content": "In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.", "author": "Jane Austen,", "tags": ["love"]},
+    {"id": "8e4f3787-8ae2-50f5-b93b-e37bae216a10", "content": "I can't give you a sure-fire formula for success, but I can give you a formula for failure: try to please everybody all the time.", "author": "Herbert Bayard Swope", "tags": ["success", "inspirational"]},
+    {"id": "ab8af115-cc80-5435-825b-50493c353960", "content": "Do what you feel in your heart to be right \u2013 for you\u2019ll be criticized anyway.", "author": "Eleanor Roosevelt", "tags": ["inspirational"]},
+    {"id": "037b3a52-1313-5553-b81a-a4cb9991534c", "content": "It takes ten times as long to put yourself back together as it does to fall apart.", "author": "Suzanne Collins,", "tags": ["unknown"]},
+    {"id": "380f17c7-9d96-50eb-85e1-bb56129a1911", "content": "I refuse to answer that question on the grounds that I don't know the answer", "author": "Douglas Adams", "tags": ["humor"]},
+    {"id": "9fc32d5f-65d8-5270-9f89-a5f7728ba083", "content": "This life\u2019s hard, but it\u2019s harder if you\u2019re stupid.", "author": "George V. Higgins,", "tags": ["life", "humor"]},
+    {"id": "3e508e92-0ee6-584b-930b-fbf4a6b08c48", "content": "What a treacherous thing to believe that a person is more than a person.", "author": "John Green,", "tags": ["unknown"]},
+    {"id": "b1c78b81-089a-522b-9f61-97f2648d22bd", "content": "Wit beyond measure is man\u2019s greatest treasure.", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "b04c6117-3f52-5837-9789-12f332d3155f", "content": "I would die for you. But I won't live for you.", "author": "Stephen Chbosky,", "tags": ["love"]},
+    {"id": "a265806f-4122-56bf-9145-8230c0ac5931", "content": "Sometimes I can hear my bones straining under the weight of all the lives I'm not living.", "author": "Jonathan Safran Foer,", "tags": ["life"]},
+    {"id": "c9247ece-3ed9-5e12-9e7b-4e7ce9bf1231", "content": "Maybe our favorite quotations say more about us than about the stories and people we're quoting.", "author": "John Green", "tags": ["unknown"]},
+    {"id": "a5fd91d9-1d7b-5cc5-8362-a402f7137ac8", "content": "If you were half as funny as you think you are, you'd be twice as funny as you really are.", "author": "H.N. Turteltaub,", "tags": ["unknown"]},
+    {"id": "4932aabc-ac68-5516-a0b5-814b27b3820c", "content": "Sometimes you wake up. Sometimes the fall kills you. And sometimes, when you fall, you fly.", "author": "Neil Gaiman,", "tags": ["unknown"]},
+    {"id": "7ab948b6-a934-524c-b0cd-ba1a6f957e82", "content": "Happiness is not something ready made. It comes from your own actions.", "author": "Dalai Lama XIV", "tags": ["happiness", "inspirational"]},
+    {"id": "9720f5b4-8870-5573-bbef-a288f1d26692", "content": "So, I love you because the entire universe conspired to help me find you.", "author": "Paulo Coelho,", "tags": ["love"]},
+    {"id": "1f966b5a-48b1-54bf-8f56-7161205a33ca", "content": "We are only as strong as we are united, as weak as we are divided.", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "1051448a-81ce-5398-8b3f-78969b5402b2", "content": "Death ends a life, not a relationship.", "author": "Mitch Albom,", "tags": ["life"]},
+    {"id": "ae4fdbba-fb2b-5ed2-ab4c-c00413bca5b8", "content": "Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.", "author": "Margaret Mead", "tags": ["life", "change", "philosophy", "inspirational"]},
+    {"id": "bad62220-0f9b-5cd6-92a3-8c4e4c5622cf", "content": "Count your age by friends, not years. Count your life by smiles, not tears.", "author": "John Lennon", "tags": ["happiness"]},
+    {"id": "9bbe2987-3ebc-5c0d-8802-82ac741df33c", "content": "Indifference and neglect often do much more damage than outright dislike.", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "07cd68a3-292f-5411-addb-23e186d09716", "content": "The weak can never forgive. Forgiveness is the attribute of the strong.", "author": "Mahatma Gandhi,", "tags": ["unknown"]},
+    {"id": "b27e1ace-7724-5ade-ade0-7cd6cd86caff", "content": "I carry your heart with me (I carry it in my heart)I am never without it (anywhere", "author": "E.E. Cummings", "tags": ["love"]},
+    {"id": "8a7dc09f-f7c8-5ad8-a0fa-bf59304f01b4", "content": "Never love anyone who treats you like you're ordinary.", "author": "Oscar Wilde", "tags": ["love"]},
+    {"id": "fec98ddc-137f-5bb2-a4d3-38b4edc8c4b6", "content": "Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation.", "author": "Oscar Wilde,", "tags": ["unknown"]},
+    {"id": "0fbc9643-c88d-51e8-84cb-c2a052cdb341", "content": "Peace begins with a smile..", "author": "Mother Teresa", "tags": ["inspirational", "peace"]},
+    {"id": "5d6bca7e-2e91-5576-9570-3b810356ea8e", "content": "All that we see or seem is but a dream within a dream.", "author": "Edgar Allan Poe", "tags": ["unknown"]},
+    {"id": "44bb06db-4e94-50ce-b565-b89b09fc7e9d", "content": "Hold fast to dreams,", "author": "Langston Hughes", "tags": ["knowledge"]},
+    {"id": "5526d291-3432-55f3-9282-8de538795d74", "content": "Never memorize something that you can look up.", "author": "Albert Einstein", "tags": ["science", "humor"]},
+    {"id": "cfcf8b3f-7e78-5175-aba1-aaacd024ad97", "content": "Do not read, as children do, to amuse yourself, or like the ambitious, for the purpose of instruction. No, read in order to live.", "author": "Gustave Flaubert", "tags": ["life", "books", "reading", "inspirational"]},
+    {"id": "e2efc0f5-edc2-550c-8503-9461127101a5", "content": "We came to see Jace. Is he alright?\"", "author": "Cassandra Clare,", "tags": ["unknown"]},
+    {"id": "61bca22e-9a44-5ff9-b948-c8037e0654a5", "content": "The Christian does not think God will love us because we are good, but that God will make us good because He loves us.", "author": "C.S. Lewis", "tags": ["god"]},
+    {"id": "35a863e8-17ec-539d-87ba-6e450501063d", "content": "Mr. Moony presents his compliments to Professor Snape, and begs him to keep his abnormally large nose out of other people's business.", "author": "J.K. Rowling,", "tags": ["humor"]},
+    {"id": "f4fed1ac-31a4-545f-9ccf-c7f8c1a2eb45", "content": "Is it true that you shouted at Professor Umbridge?\"", "author": "J.K. Rowling,", "tags": ["humor"]},
+    {"id": "635d03b3-1005-5bda-88d1-9fd55af446a5", "content": "All we have to decide is what to do with the time that is given us.", "author": "J.R.R. Tolkien,", "tags": ["unknown"]},
+    {"id": "6b3157ce-ce5d-59a7-9044-6f0d11b40dd0", "content": "The only thing worse than a boy who hates you: a boy that loves you.", "author": "Markus Zusak,", "tags": ["love"]},
+    {"id": "c57825a7-6440-51c5-8415-b300c28999c5", "content": "You are, and always have been, my dream.", "author": "Nicholas Sparks,", "tags": ["love"]},
+    {"id": "3c7f997b-e79a-5680-816a-5ba104838843", "content": "I like the night. Without the dark, we'd never see the stars.", "author": "Stephenie Meyer,", "tags": ["unknown"]},
+    {"id": "e4b46246-7d96-52bc-b417-44726fbe8123", "content": "You are my best friend as well as my lover, and I do not know which side of you I enjoy the most. I treasure each side, just as I have treasured our life together.", "author": "Nicholas Sparks,", "tags": ["love", "friendship"]},
+    {"id": "b72860d7-424e-5932-89f7-fde7e717961a", "content": "He can run faster than Severus Snape confronted with shampoo.", "author": "J.K. Rowling,", "tags": ["humor"]},
+    {"id": "fdb1d673-57b6-5f67-8bea-f690278d9adc", "content": "What lies behind us and what lies before us are tiny matters compared to what lies within us.", "author": "Ralph Waldo Emerson", "tags": ["inspirational"]},
+    {"id": "f8622b65-ba94-5c7a-9422-999ea994728c", "content": "You talk when you cease to be at peace with your thoughts.", "author": "Kahlil Gibran,", "tags": ["philosophy"]},
+    {"id": "c1eacda7-f062-5aeb-9eb1-6d38320679c1", "content": "Don't think or judge, just listen.", "author": "Sarah Dessen,", "tags": ["unknown"]},
+    {"id": "feb6fb34-7974-5f2b-a2e5-3b31e8e9a69f", "content": "For attractive lips, speak words of kindness.", "author": "Sam Levenson,", "tags": ["inspirational"]},
+    {"id": "c71ad012-b287-5eec-9c48-8da342ef7bda", "content": "You cannot find peace by avoiding life.", "author": "Michael Cunningham,", "tags": ["life", "peace"]},
+    {"id": "ae45dbb9-1dfd-5afa-9f42-8ce374c2702d", "content": "In a good bookroom you feel in some mysterious way that you are absorbing the wisdom contained in all the books through your skin, without even opening them.", "author": "Mark Twain", "tags": ["books"]},
+    {"id": "f007c387-cef8-5409-ba7c-d8a2553f6230", "content": "Grief does not change you, Hazel. It reveals you.", "author": "John Green,", "tags": ["change"]},
+    {"id": "596c441c-44ab-5744-b819-9ce5ce16b50a", "content": "Friendship is unnecessary, like philosophy, like art.... It has no survival value; rather it is one of those things which give value to survival.", "author": "C.S. Lewis,", "tags": ["friendship", "inspirational"]},
+    {"id": "b94a7649-3a16-56fc-a2f5-75b6c7df6bc6", "content": "I would always rather be happy than dignified.", "author": "Charlotte Bront\u00eb,", "tags": ["love"]},
+    {"id": "8f465d5c-e980-5cc1-b691-cec4f6d30d55", "content": "Promise Yourself", "author": "Christian D. Larson,", "tags": ["love", "happiness", "inspirational"]},
+    {"id": "737f6f4f-3aa0-57b2-937e-beac11d923ee", "content": "In the depth of winter, I finally learned that within me there lay an invincible summer.", "author": "Albert Camus", "tags": ["unknown"]},
+    {"id": "de3f164d-5a6f-5f95-add1-5e2f78e0a1f2", "content": "Those who believe in telekinetics, raise my hand.", "author": "Kurt Vonnegut", "tags": ["unknown"]},
+    {"id": "ef111e8a-1878-593f-bde9-d9420692500e", "content": "Happy Hunger Games! And may the odds be ever in your favor.", "author": "Suzanne Collins,", "tags": ["unknown"]},
+    {"id": "f9b2c3bb-6c18-5af3-9816-c16aa9d8816b", "content": "Don't touch any of my weapons without my permission.\"", "author": "Cassandra Clare,", "tags": ["unknown"]},
+    {"id": "d5135fa5-9b41-5ef2-be31-276c8fff4e2e", "content": "Facts do not cease to exist because they are ignored.", "author": "Aldous Huxley,", "tags": ["truth"]},
+    {"id": "700b6e68-0440-536d-9cf7-12184da0da1d", "content": "When you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, 'Damn, that was fun'.", "author": "Groucho Marx", "tags": ["humor"]},
+    {"id": "055abe4d-2c89-572c-acdc-80d24a339fcc", "content": "Promise me you'll always remember: You're braver than you believe, and stronger than you seem, and smarter than you think.", "author": "Carter Crocker", "tags": ["unknown"]},
+    {"id": "7b06ed6d-f371-54b0-9948-06f36539b635", "content": "Whatever you are, be a good one.", "author": "Abraham Lincoln", "tags": ["inspirational"]},
+    {"id": "677897d5-5ce4-5e33-b310-52682343d05d", "content": "I hope she'll be a fool -- that's the best thing a girl can be in this world, a beautiful little fool.", "author": "F. Scott Fitzgerald,", "tags": ["inspirational"]},
+    {"id": "21c04288-6668-520b-984a-d0a8886b42dd", "content": "He's more myself than I am. Whatever our souls are made of, his and mine are the same.", "author": "Emily Bront\u00eb,", "tags": ["love"]},
+    {"id": "229b1df6-a445-5450-8eb0-c4f33bd9e6f5", "content": "When you are courting a nice girl an hour seems like a second. When you sit on a red-hot cinder a second seems like an hour. That's relativity.", "author": "Albert Einstein", "tags": ["humor"]},
+    {"id": "b1e1eef8-8459-569d-b229-f51f172d5e3b", "content": "There's a fine line between genius and insanity. I have erased this line.", "author": "Oscar Levant", "tags": ["humor"]},
+    {"id": "dfaa8d7b-9e48-5b59-8441-78a88e65f610", "content": "If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.", "author": "J.R.R. Tolkien", "tags": ["happiness"]},
+    {"id": "7a7a1187-f821-5689-9904-5dcbe88096bf", "content": "Where there is love there is life.", "author": "Mahatma Gandhi", "tags": ["love", "life"]},
+    {"id": "c56961ba-76fa-5ae1-9a8a-756462caa53c", "content": "A good friend will always stab you in the front.", "author": "Oscar Wilde", "tags": ["unknown"]},
+    {"id": "82b3d618-e39c-5a2f-80fd-ef6a6e37d00d", "content": "You can't force love, I realized. It's there or it isn't. If it's not there, you've got to be able to admit it. If it is there, you've got to do whatever it takes to protect the ones you love.", "author": "Richelle Mead,", "tags": ["unknown"]},
+    {"id": "11586f47-0e9d-54bf-be86-8a0aaacc6cb5", "content": "Be kind, for everyone you meet is fighting a harder battle.", "author": "Plato", "tags": ["unknown"]},
+    {"id": "84f7890c-b80d-5a6e-b0f7-1f081c5d5033", "content": "Sleep is good, he said, and books are better.", "author": "George R. R. Martin", "tags": ["books", "reading"]},
+    {"id": "9d71b6bc-80e8-5c18-b6eb-1c71388bc299", "content": "Wicked people never have time for reading. It's one of the reasons for their wickedness.", "author": "Lemony Snicket", "tags": ["unknown"]},
+    {"id": "f40ae57a-82c4-572f-8d63-43230cb8851e", "content": "Two wrongs don't make a right, but they make a good excuse.", "author": "Thomas Szasz", "tags": ["humor", "inspirational"]},
+    {"id": "dbed4def-3b54-566b-b493-35fb7fae4f04", "content": "When it comes down to it, I let them think what they want. If they care enough to bother with what I do, then I'm already better than them.", "author": "Marilyn Monroe", "tags": ["unknown"]},
+    {"id": "b96ef4e3-5e12-5633-93d3-39d5539af229", "content": "Women are meant to be loved, not to be understood.", "author": "Oscar Wilde,", "tags": ["unknown"]},
+    {"id": "2c4edc70-215c-5c46-bee0-2ac8e29134d6", "content": "Death's got an Invisibility Cloak?\" Harry interrupted again.", "author": "J.K. Rowling,", "tags": ["humor"]},
+    {"id": "4332b67c-0696-520a-9802-4cc9a4098eb4", "content": "May you live every day of your life.", "author": "Jonathan Swift", "tags": ["life", "philosophy", "inspirational"]},
+    {"id": "2c177a2e-4d11-5172-ba70-6182d5393270", "content": "First they ignore you. Then they ridicule you. And then they attack you and want to burn you. And then they build monuments to you.", "author": "Nicholas Klein", "tags": ["inspirational"]},
+    {"id": "fc8c07fc-d886-562c-9ddd-76b2039ee62d", "content": "Substitute 'damn' every time you're inclined to write 'very;' your editor will delete it and the writing will be just as it should be.", "author": "Mark Twain", "tags": ["humor"]},
+    {"id": "d7e35dc5-89f4-50db-951f-6909e9b94ca3", "content": "It means 'Shadowhunters: Looking Better in Black Than the Widows of our Enemies Since 1234'.", "author": "Cassandra Clare,", "tags": ["humor"]},
+    {"id": "5cf5524d-7861-5127-ad29-ac113c77a3c5", "content": "And those who were seen dancing were thought to be insane by those who could not hear the music.", "author": "Friedrich Nietzsche", "tags": ["unknown"]},
+    {"id": "87a3e32f-d990-5f00-90b2-af75e46247a4", "content": "Nobody has ever measured, not even poets, how much the heart can hold.", "author": "Zelda Fitzgerald", "tags": ["love"]},
+    {"id": "d7628f48-f6f4-5f9c-8c25-4de4d6d098ac", "content": "I love sleep. My life has the tendency to fall apart when I'm awake, you know?", "author": "Ernest Hemingway", "tags": ["unknown"]},
+    {"id": "c9f59c4b-85bf-507c-8552-02cf1c3c6334", "content": "I don't want to go to heaven. None of my friends are there.", "author": "Oscar Wilde", "tags": ["unknown"]},
+    {"id": "4fd9fda6-c01a-5528-9d24-b0a0b63f823e", "content": "We write to taste life twice, in the moment and in retrospect.", "author": "Anais Nin", "tags": ["unknown"]},
+    {"id": "0e1a2d80-fc9e-544d-a882-a72a169c5f02", "content": "Man is the only creature who refuses to be what he is.", "author": "Albert Camus", "tags": ["philosophy"]},
+    {"id": "3882dcde-8b24-5990-a077-8719fffb240a", "content": "A clever person solves a problem. A wise person avoids it.", "author": "Albert Einstein", "tags": ["unknown"]},
+    {"id": "dc601e6d-e130-592b-b9c2-a37f57b2c244", "content": "Well, don't expect us to be too impressed. We just saw Finnick Odair in his underwear.", "author": "Suzanne Collins,", "tags": ["unknown"]},
+    {"id": "09b76260-3e48-522c-ab5d-c122b7386eca", "content": "We all die. The goal isn't to live forever, the goal is to create something that will.", "author": "Chuck Palahniuk,", "tags": ["unknown"]},
+    {"id": "2a112673-9268-52a7-9a74-38813d2aa977", "content": "Who controls the past controls the future. Who controls the present controls the past.", "author": "George Orwell,", "tags": ["inspirational"]},
+    {"id": "a4b0ddd8-bc22-569a-950c-14ac00c38f8b", "content": "I have hated words and I have loved them, and I hope I have made them right.", "author": "Markus Zusak,", "tags": ["unknown"]},
+    {"id": "13b117df-4fef-548c-a38a-9354ab6e4d07", "content": "Once upon a time there was a boy who loved a girl, and her laughter was a question he wanted to spend his whole life answering.", "author": "Nicole Krauss,", "tags": ["love"]},
+    {"id": "ac51abd4-d466-5517-83ff-18ae66258375", "content": "You will always be fond of me. I represent to you all the sins you never had the courage to commit.", "author": "Oscar Wilde,", "tags": ["unknown"]},
+    {"id": "3106c5a8-f0d9-5377-8021-1fcfb6aec729", "content": "Every heart sings a song, incomplete, until another heart whispers back. Those who wish to sing always find a song. At the touch of a lover, everyone becomes a poet.", "author": "Plato", "tags": ["love"]},
+    {"id": "50dc23e4-bbd4-5933-9626-8a3f54cf2cd3", "content": "It's only after we've lost everything that we're free to do anything.", "author": "Chuck Palahniuk,", "tags": ["unknown"]},
+    {"id": "ec6e85e6-7e32-5373-9de4-1a6ede95b150", "content": "I can believe things that are true and things that aren't true and I can believe things where nobody knows if they're true or not.", "author": "Neil Gaiman,", "tags": ["unknown"]},
+    {"id": "bdaa63ed-6ea1-55eb-b9c0-c67509701a07", "content": "Get busy living or get busy dying.", "author": "Stephen King,", "tags": ["life"]},
+    {"id": "1b24fbf1-15f3-560e-8027-dab00b6fe20f", "content": "Destroying things is much easier than making them.", "author": "Suzanne Collins,", "tags": ["unknown"]},
+    {"id": "8907be04-d9c8-5eb1-82f7-cc5f684aaef5", "content": "Doubt thou the stars are fire;", "author": "William Shakespeare,", "tags": ["love"]},
+    {"id": "7b58b4a8-8180-544e-8db4-5f745676bb57", "content": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.", "author": "Carl Gustav Jung", "tags": ["unknown"]},
+    {"id": "90c41fd5-1b3b-57d2-983e-ed40dfae50f1", "content": "Science without religion is lame, religion without science is blind.", "author": "Albert Einstein", "tags": ["science"]},
+    {"id": "30f0ed4c-a38e-5c61-9b0e-f24992c3104e", "content": "Let us find the dam snack bar,\" Zoe said. \"We should eat while we can.\"", "author": "Rick Riordan,", "tags": ["humor"]},
+    {"id": "ecc01a13-4d45-5a16-bc89-e4b09201dfae", "content": "When someone shows you who they are believe them; the first time.", "author": "Maya Angelou", "tags": ["unknown"]},
+    {"id": "c4602f97-e664-56f1-9e9b-de11d595f998", "content": "You educate a man; you educate a man. You educate a woman; you educate a generation.", "author": "Brigham Young", "tags": ["unknown"]},
+    {"id": "367ee145-825a-5bc1-a94f-150d411dfbd4", "content": "Chance is perhaps the pseudonym of God when he does not want to sign.", "author": "Th\u00e9ophile Gautier", "tags": ["unknown"]},
+    {"id": "270908f6-dfb7-529e-b435-c45701ed1a20", "content": "You're a prefect? Oh Ronnie! That's everyone in the family!\"", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "a3c49430-b6a8-5300-a537-d2d26ff91443", "content": "When I look at my room, I see a girl who loves books.", "author": "John Green,", "tags": ["unknown"]},
+    {"id": "c1efea81-6d63-5261-8fe0-182bb6aa4ea7", "content": "Going to church doesn\u2019t make you a Christian any more than going to a garage makes you an automobile.", "author": "Billy Sunday,", "tags": ["humor"]},
+    {"id": "6b1b6998-5974-5014-8a4b-4d6853781f4b", "content": "These woods are lovely, dark and deep,", "author": "Robert Frost,", "tags": ["life"]},
+    {"id": "db7bc44c-2d0c-505e-85a8-139191a5bb2a", "content": "Reader, suppose you were an idiot. And suppose you were a member of Congress. But I repeat myself.", "author": "Mark Twain", "tags": ["humor"]},
+    {"id": "632e59a6-206a-5161-96dc-e701f9a3cdfe", "content": "All the world is made of faith, and trust, and pixie dust.", "author": "J.M. Barrie,", "tags": ["life", "faith"]},
+    {"id": "f0c60c8b-f963-59d1-8521-78942f92f62d", "content": "We loved with a love that was more than love.", "author": "Edgar Allen Poe", "tags": ["love"]},
+    {"id": "49c347cb-8ed5-554c-9987-b03bcaa40194", "content": "It is sometimes an appropriate response to reality to go insane.", "author": "Philip K. Dick,", "tags": ["unknown"]},
+    {"id": "b4371e5c-e229-5842-b7e4-55fb28fb9d1f", "content": "If my life is going to mean anything, I have to live it myself.", "author": "Rick Riordan,", "tags": ["life", "inspirational"]},
+    {"id": "06e2264f-ce75-5573-b489-0f0ac97bb1d3", "content": "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.", "author": "A.A. Milne,", "tags": ["friendship", "inspirational"]},
+    {"id": "7d52f652-b8f9-5fe1-be79-4b10557b1ea0", "content": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.", "author": "Rumi", "tags": ["unknown"]},
+    {"id": "f8df22a0-f7de-5f0c-975e-460eef926da8", "content": "I DON'T CARE!\" Harry yelled at them, snatching up a lunascope and throwing it into the fireplace. \"I'VE HAD ENOUGH, I'VE SEEN ENOUGH, I WANT OUT, I WANT IT TO END, I DON'T CARE ANYMORE!\"", "author": "J.K. Rowling,", "tags": ["life"]},
+    {"id": "058265b2-8eb0-5b42-af46-d386f003fed0", "content": "This is a good sign, having a broken heart. It means we have tried for something.", "author": "Elizabeth Gilbert,", "tags": ["love"]},
+    {"id": "546b3d64-e62e-5729-8919-665bdf8e9088", "content": "We should all start to live before we get too old. Fear is stupid. So are regrets.", "author": "Marilyn Monroe", "tags": ["unknown"]},
+    {"id": "daa8a84f-d3cf-504a-b8ad-5a31de870d1e", "content": "We have to dare to be ourselves, however frightening or strange that self may prove to be.", "author": "May Sarton", "tags": ["life", "philosophy"]},
+    {"id": "f23c7b45-d751-5bba-9133-6cde792ed710", "content": "And I'm suppose to sit by while you date boys and fall in love with someone else, get married...?\" His voice tightened. \"And meanwhile, I'll die a little bit more every day, watching.", "author": "Cassandra Clare,", "tags": ["unknown"]},
+    {"id": "29717077-71e0-5986-a756-9fbea8f245cb", "content": "The fault, dear Brutus, is not in our stars, but in ourselves.", "author": "William Shakespeare,", "tags": ["unknown"]},
+    {"id": "e0cd04de-f7a2-5c3c-9fb4-f57760c582c1", "content": "Unless someone like you cares a whole awful lot,", "author": "Dr. Seuss,", "tags": ["unknown"]},
+    {"id": "fe25c460-f51c-57d5-bcaf-1aacfa50432b", "content": "Eleanor was right. She never looked nice. She looked like art, and art wasn't supposed to look nice; it was supposed to make you feel something.", "author": "Rainbow Rowell,", "tags": ["love"]},
+    {"id": "d4933167-8b0a-5044-a2df-1498191896a6", "content": "Anyone who lives within their means suffers from a lack of imagination.", "author": "Oscar Wilde", "tags": ["life"]},
+    {"id": "c8b368ce-ba79-506e-b2a7-e0be45e03b0e", "content": "I do not want people to be very agreeable, as it saves me the trouble of liking them a great deal.", "author": "Jane Austen,", "tags": ["humor"]},
+    {"id": "6de27ee4-6179-5e75-9f6e-f19e7e1fc889", "content": "Isn't it nice to think that tomorrow is a new day with no mistakes in it yet?", "author": "L.M. Montgomery", "tags": ["inspirational"]},
+    {"id": "12fcc826-f17b-5d7b-9139-e59e4cf64925", "content": "Deep in the meadow, hidden far away", "author": "Suzanne Collins,", "tags": ["unknown"]},
+    {"id": "095474f0-7ab4-508e-a40c-82ebd638cdb6", "content": "And so the lion fell in love with the lamb\u2026\" he murmured. I looked away, hiding my eyes as I thrilled to the word.", "author": "Stephenie Meyer,", "tags": ["love"]},
+    {"id": "6f91a331-1a30-514d-85ca-b4cbc6b55ab4", "content": "Out beyond ideas of wrongdoing", "author": "Rumi", "tags": ["love", "friendship", "soul", "peace"]},
+    {"id": "ac05e8c7-78c0-5b37-8bcd-4f0c733b954d", "content": "Some people care too much. I think it's called love.", "author": "A.A. Milne,", "tags": ["unknown"]},
+    {"id": "582b6727-6c7d-5f76-8fec-3f47bce1285a", "content": "Let us read, and let us dance; these two amusements will never do any harm to the world.", "author": "Voltaire", "tags": ["reading"]},
+    {"id": "a152ba66-0318-5cd0-ada5-e2011cfd6f83", "content": "Some books should be tasted, some devoured, but only a few should be chewed and digested thoroughly.", "author": "Sir Francis Bacon", "tags": ["books", "reading"]},
+    {"id": "041b119c-9c4e-535c-8b40-422bfc770925", "content": "It is the unknown we fear when we look upon death and darkness, nothing more.", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "f55f4085-7f13-5429-afa2-a14481f6837b", "content": "And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye.", "author": "Antoine de Saint-Exup\u00e9ry,", "tags": ["unknown"]},
+    {"id": "d583b7e4-9fd6-56b5-b401-5444a98de6aa", "content": "Never laugh at live dragons.", "author": "J.R.R. Tolkien", "tags": ["unknown"]},
+    {"id": "7b18e9da-2368-5d3f-acc3-7b599ae7aefa", "content": "Libraries were full of ideas\u2014perhaps the most dangerous and powerful of all weapons.", "author": "Sarah J. Maas,", "tags": ["unknown"]},
+    {"id": "93395167-1835-542d-9db2-ca8c98160241", "content": "The planet is fine. The people are fucked.", "author": "George Carlin", "tags": ["humor"]},
+    {"id": "64425d84-b464-5825-9024-d0dca85ff306", "content": "How lucky I am to have known somebody and something that saying goodbye to is so damned awful.", "author": "Evans G. Valens,", "tags": ["unknown"]},
+    {"id": "3ed870a8-102d-5ef9-83a4-947cee2ad0e1", "content": "Here\u2019s to books, the cheapest vacation you can buy.", "author": "Charlaine Harris", "tags": ["unknown"]},
+    {"id": "f5115543-55c2-5c51-91b7-7083e41ab1f7", "content": "Eating and reading are two pleasures that combine admirably.", "author": "C.S. Lewis", "tags": ["unknown"]},
+    {"id": "05bfa59c-fe7c-5ef4-9cc7-ef0c65ee0f92", "content": "When I have a little money, I buy books; and if I have any left, I buy food and clothes.", "author": "Desiderius Erasmus Roterodamus", "tags": ["books"]},
+    {"id": "d1f6bef9-38b1-51d5-89af-a1dd633baf37", "content": "Tell me, what is it you plan to do", "author": "Mary Oliver", "tags": ["unknown"]},
+    {"id": "0ce93792-2e00-5a53-a5d5-57a42677ec21", "content": "Reading is one form of escape. Running for your life is another.", "author": "Lemony Snicket", "tags": ["unknown"]},
+    {"id": "9b240051-ee6a-59ea-9d3d-a2e5ba81b139", "content": "Life is a book and there are a thousand pages I have not yet read.", "author": "Cassandra Clare,", "tags": ["life"]},
+    {"id": "ae045f31-6c00-575e-89b3-9c51ac61ddef", "content": "I might be in love with you.\" He smiles a little. \"I'm waiting until I'm sure to tell you, though.", "author": "Veronica Roth,", "tags": ["unknown"]},
+    {"id": "8db5a5df-1e7e-510f-8ed8-fe98910aa620", "content": "It is the mark of an educated mind to be able to entertain a thought without accepting it.", "author": "Aristotle,", "tags": ["unknown"]},
+    {"id": "256ee2c7-1dd3-54e6-8219-fe8c4af5bcec", "content": "Do you remember back at the hotel when you promised that if we lived, you\u2019d get dressed up in a nurse\u2019s outfit and give me a sponge bath?\" asked Jace.", "author": "Cassandra Clare,", "tags": ["humor"]},
+    {"id": "0eea3378-a2b0-5b5a-9af5-a587c6c22be3", "content": "A guy and a girl can be just friends, but at one point or another, they will fall for each other...Maybe temporarily, maybe at the wrong time, maybe too late, or maybe forever", "author": "Dave Matthews Band", "tags": ["love"]},
+    {"id": "93d6394b-27da-558d-b874-af79cbbe9fde", "content": "Reality is merely an illusion, albeit a very persistent one.", "author": "Albert Einstein", "tags": ["unknown"]},
+    {"id": "7a41d3ee-801b-530f-b493-37fd71fab7a2", "content": "Every saint has a past, and every sinner has a future.", "author": "Oscar Wilde", "tags": ["unknown"]},
+    {"id": "aa4373ec-781c-5d21-84e7-8c8557b356cc", "content": "There are no good girls gone wrong - just bad girls found out.", "author": "Mae West", "tags": ["unknown"]},
+    {"id": "94af5447-0bff-5ae5-8315-397db4c6076c", "content": "The secret of life, though, is to fall seven times and to get up eight times.", "author": "Paulo Coelho,", "tags": ["unknown"]},
+    {"id": "a76999a9-4470-5282-85b1-276dde740687", "content": "Those who dream by day are cognizant of many things which escape those who dream only by night.", "author": "Edgar Allan Poe,", "tags": ["unknown"]},
+    {"id": "fca68708-6809-50de-9097-d1087a8d45a2", "content": "The more I know of the world, the more I am convinced that I shall never see a man whom I can really love. I require so much!", "author": "Jane Austen,", "tags": ["love"]},
+    {"id": "4055e99f-0ee1-5a47-a2e1-dfc484e4a086", "content": "Hope is the thing with feathers", "author": "Emily Dickinson", "tags": ["inspirational"]},
+    {"id": "10a7282e-4486-5de7-a225-2c1e12021b4a", "content": "Never go to bed mad. Stay up and fight.", "author": "Phyllis Diller", "tags": ["unknown"]},
+    {"id": "58d72c2b-e8fe-5ad3-9e34-c54687337cdb", "content": "I hope that in this year to come, you make mistakes. Because if you are making mistakes...you're Doing Something.", "author": "Neil Gaiman", "tags": ["unknown"]},
+    {"id": "b48d2db6-4953-57ba-a3f7-681e0555e9ba", "content": "Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside \u2014 remembering all the times you've felt that way.", "author": "Charles Bukowski", "tags": ["unknown"]},
+    {"id": "29a68ca2-3a0d-5488-8784-9fe2c98317df", "content": "If you expect nothing from somebody you are never disappointed.", "author": "Sylvia Plath,", "tags": ["unknown"]},
+    {"id": "6454e32b-6b23-59c6-885b-70d1001d660e", "content": "You get a little moody sometimes but I think that's because you like to read. People that like to read are always a little fucked up.", "author": "Pat Conroy,", "tags": ["books", "reading"]},
+    {"id": "e749493b-feec-5124-b29f-8ead1e3afce7", "content": "Don\u2019t go around saying the world owes you a living. The world owes you nothing. It was here first.", "author": "Mark Twain", "tags": ["unknown"]},
+    {"id": "c82b766b-889f-5c00-9345-ba1f4212d417", "content": "The world is a book and those who do not travel read only one page.", "author": "St. Augustine", "tags": ["books"]},
+    {"id": "ce88676e-657a-508c-ad77-f1a28cb279b6", "content": "If we knew what it was we were doing, it would not be called research, would it?", "author": "Albert Einstein", "tags": ["science"]},
+    {"id": "5338aacd-6742-50ca-8a65-3d06fbcfd6b4", "content": "One day I will find the right words, and they will be simple.", "author": "Jack Kerouac,", "tags": ["simplicity"]},
+    {"id": "e393eb14-5ca6-52db-96c3-8058d4e73a52", "content": "Any fool can know. The point is to understand.", "author": "Albert Einstein", "tags": ["knowledge", "learning"]},
+    {"id": "ebc1f901-38d5-532b-8904-41c2aab4ca42", "content": "I like work: it fascinates me. I can sit and look at it for hours.", "author": "Jerome K. Jerome", "tags": ["humor"]},
+    {"id": "a7210cd2-757f-550c-8abe-8d20511d5769", "content": "Faithless is he that says farewell when the road darkens.", "author": "J.R.R. Tolkien,", "tags": ["faith"]},
+    {"id": "cc057884-071d-5cdf-8f5f-870910d6ace9", "content": "That's always seemed so ridiculous to me, that people want to be around someone because they're pretty. It's like picking your breakfeast cereals based on color instead of taste.", "author": "John Green,", "tags": ["unknown"]},
+    {"id": "005509b0-1b5b-5978-8135-098a950a0fac", "content": "If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?", "author": "Laurence J. Peter", "tags": ["humor", "philosophy"]},
+    {"id": "46051f86-2e3b-5af8-9c9b-27e602519e57", "content": "I have no special talents. I am only passionately curious.", "author": "Albert Einstein", "tags": ["unknown"]},
+    {"id": "02e0959a-1bc6-5bfc-8293-6d33990076ba", "content": "May I see you again?\" he asked. There was an endearing nervousness in his voice.", "author": "John Green,", "tags": ["unknown"]},
+    {"id": "dd437878-d1ad-5754-af4c-70bd36538452", "content": "I am not young enough to know everything.", "author": "Oscar Wilde", "tags": ["unknown"]},
+    {"id": "2ba733b3-6916-5cc3-9475-e7f9106762d3", "content": "Sarcasm is the last refuge of the imaginatively bankrupt.", "author": "Cassandra Clare,", "tags": ["unknown"]},
+    {"id": "c06e2786-e36b-57b0-8563-8b13f7941606", "content": "Malachi scowled. \"I don't remember the Clave inviting you into the Glass City, Magnus Bane.\"", "author": "Cassandra Clare,", "tags": ["humor"]},
+    {"id": "53ac60d9-b756-5e75-824c-52bada007782", "content": "Pain is inevitable. Suffering is optional.", "author": "haruki murakami,", "tags": ["inspirational"]},
+    {"id": "5a13128c-6f93-54b7-ae07-560ac63cf64e", "content": "Life can only be understood backwards; but it must be lived forwards.", "author": "S\u00f8ren Kierkegaard", "tags": ["life"]},
+    {"id": "0909815a-25aa-5c6b-8c0f-8f535e797084", "content": "I took a deep breath and listened to the old brag of my heart. I am, I am, I am.", "author": "Sylvia Plath,", "tags": ["unknown"]},
+    {"id": "0008f408-e849-5e3d-8497-69f35c3e264a", "content": "I have decided to stick to love...Hate is too great a burden to bear.", "author": "Martin Luther King Jr.,", "tags": ["love"]},
+    {"id": "39bda302-9c90-549d-88c7-d2fdc384ca3f", "content": "Always do what you are afraid to do.", "author": "Ralph Waldo Emerson", "tags": ["inspirational"]},
+    {"id": "8443fd63-0210-51eb-8eef-b24c5de5cd6b", "content": "If you're reading this...", "author": "Chad Sugg,", "tags": ["life", "inspirational"]},
+    {"id": "43627074-b83c-5e8c-93b9-ce162dadaa5b", "content": "A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.", "author": "George Bernard Shaw", "tags": ["life"]},
+    {"id": "e63f8287-e195-5282-b16f-4c679e173d62", "content": "What's meant to be will always find a way", "author": "Trisha Yearwood", "tags": ["love"]},
+    {"id": "208f7714-add0-5380-b944-66029f2b3855", "content": "Our lives begin to end the day we become silent about things that matter.", "author": "Martin Luther King Jr.,", "tags": ["inspirational"]},
+    {"id": "56d48a4d-bb19-5610-89c3-72d0fb785aa9", "content": "Make it a rule never to give a child a book you would not read yourself.", "author": "George Bernard Shaw", "tags": ["books"]},
+    {"id": "2d2029e4-da12-5b4a-993d-a5c3e9004214", "content": "They say a person needs just three things to be truly happy in this world: someone to love, something to do, and something to hope for.", "author": "Tom Bodett", "tags": ["love", "happiness"]},
+    {"id": "6333e3f3-ddfe-517d-a8dd-d1aa83f8e250", "content": "Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.", "author": "Stephen King", "tags": ["life"]},
+    {"id": "76cf0195-1378-59fb-a2c7-61e52fd3208c", "content": "I'm coming back into focus when Caesar asks him if he has a girlfriend back home. Peeta hesitates, then gives an unconvincing shake of his head.", "author": "Suzanne Collins,", "tags": ["unknown"]},
+    {"id": "bc1d3e40-36da-5eeb-803e-fa630d611f3a", "content": "Of all sad words of tongue or pen, the saddest are these, 'It might have been.", "author": "John Greenleaf Whittier,", "tags": ["life"]},
+    {"id": "cf67429e-b5d2-5bf4-b47f-59708ded68c7", "content": "The boy never cried again, and he never forgot what he'd learned: that to love is to destroy, and that to be loved is to be the one destroyed.", "author": "Cassandra Clare,", "tags": ["unknown"]},
+    {"id": "ea06989e-e676-54aa-901d-3d7b378f7126", "content": "THE FIRST TEN LIES THEY TELL YOU IN HIGH SCHOOL", "author": "Laurie Halse Anderson,", "tags": ["humor"]},
+    {"id": "6136cf25-b8d3-5827-933d-6d3bfe261e6b", "content": "In a time of deceit telling the truth is a revolutionary act.", "author": "George Orwell", "tags": ["truth"]},
+    {"id": "27e729f5-e19b-55a1-bb64-bcdef9b88b6b", "content": "We delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.", "author": "Maya Angelou", "tags": ["unknown"]},
+    {"id": "0b2edde6-307e-5f4b-9b23-0343c8bb1168", "content": "Give a girl the right shoes, and she can conquer the world.", "author": "Bette Midler", "tags": ["unknown"]},
+    {"id": "dc007ffb-cb55-5015-b330-5517d9525461", "content": "Talent hits a target no one else can hit. Genius hits a target no one else can see.", "author": "Arthur Schopenhauer", "tags": ["inspirational"]},
+    {"id": "a2bc7e6d-6419-586f-9eef-2f08d54b2c8f", "content": "In the end, we will remember not the words of our enemies, but the silence of our friends.", "author": "Martin Luther King Jr.", "tags": ["inspirational"]},
+    {"id": "10e115f2-91cd-5b7f-8cd9-ad4ed2e12bba", "content": "The mind is its own place, and in itself can make a heaven of hell, a hell of heaven..", "author": "John Milton,", "tags": ["inspirational"]},
+    {"id": "de20daa9-2860-5114-8874-27fa5ca33912", "content": "The flower that blooms in adversity is the rarest and most beautiful of all.", "author": "Walt Disney Company,", "tags": ["life"]},
+    {"id": "c005dc3c-838a-5a7b-80bf-0fb22bc34155", "content": "And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.", "author": "Anais Nin", "tags": ["unknown"]},
+    {"id": "8e324ab5-e23c-52d0-854f-6b083a2162a5", "content": "There are two motives for reading a book; one, that you enjoy it; the other, that you can boast about it.", "author": "Bertrand Russell", "tags": ["books", "humor"]},
+    {"id": "56d5b5f3-74c2-5f84-afe0-225dae35c709", "content": "Faith is taking the first step even when you can't see the whole staircase.", "author": "Martin Luther King Jr.", "tags": ["unknown"]},
+    {"id": "95e3c2dc-636b-55be-9f61-2eaf810cb621", "content": "You have enemies? Good. That means you've stood up for something, sometime in your life.", "author": "Winston Churchill", "tags": ["unknown"]},
+    {"id": "7f4afa58-0575-5a6c-9cc3-14eab0e2586a", "content": "Once you learn to read, you will be forever free.", "author": "Frederick Douglass", "tags": ["unknown"]},
+    {"id": "ed8ac222-acd8-5d1c-8012-8677cd4acb94", "content": "Hearts are made to be broken.", "author": "Oscar Wilde,", "tags": ["love"]},
+    {"id": "41786135-5708-5188-a0d9-89352c17f575", "content": "It is so hard to leave\u2014until you leave. And then it is the easiest goddamned thing in the world.", "author": "John Green,", "tags": ["inspirational"]},
+    {"id": "9bdc70a0-7a00-5efc-9c9b-d4abf1ce1105", "content": "Somewhere, something incredible is waiting to be known.", "author": "Carl Sagan", "tags": ["science"]},
+    {"id": "a66ddd1f-68d6-5b96-be55-1041dde8ef1a", "content": "A thing is not necessarily true because a man dies for it.", "author": "Oscar Wilde", "tags": ["truth"]},
+    {"id": "d46d36f7-61d6-5670-a56a-24cb8f2e395c", "content": "Experience is merely the name men gave to their mistakes.", "author": "Oscar Wilde,", "tags": ["unknown"]},
+    {"id": "be1b23e9-4b32-57c5-9bc4-ca96fab2f666", "content": "Whether you think you can, or you think you can't--you're right.", "author": "Henry Ford", "tags": ["unknown"]},
+    {"id": "725970d8-d2b9-529e-9ef7-b2762edccbd0", "content": "Why did you do all this for me?' he asked. 'I don't deserve it. I've never done anything for you.' 'You have been my friend,' replied Charlotte. 'That in itself is a tremendous thing.", "author": "E.B. White,", "tags": ["friendship"]},
+    {"id": "47c483e3-ac3e-565b-978a-29a8793120a5", "content": "Books so special and rare and yours that advertising your affection feels like a betrayal.", "author": "John Green,", "tags": ["books"]},
+    {"id": "5b7fdd87-b19c-51ae-8743-138d90da0091", "content": "She was a girl who knew how to be happy even when she was sad. And that\u2019s important\u2014you know ", "author": "Marilyn Monroe", "tags": ["unknown"]},
+    {"id": "50048bc3-51de-5a5a-99e0-387309eaa8a9", "content": "I want to stand as close to the edge as I can without going over. Out on the edge you see all kinds of things you can't see from the center.", "author": "Kurt Vonnegut,", "tags": ["unknown"]},
+    {"id": "3a13fb68-fcc5-5bc2-a39a-feb1a349a282", "content": "Think of all the beauty still left around you and be happy.", "author": "Anne Frank", "tags": ["unknown"]},
+    {"id": "fe78ac7f-aff2-5a24-8094-05403f219d98", "content": "Two people in love, alone, isolated from the world, that's beautiful.", "author": "Milan Kundera", "tags": ["love"]},
+    {"id": "8aab0914-7b30-5c89-813a-44dd89a7cd22", "content": "Here's all you have to know about men and women: women are crazy, men are stupid. And the main reason women are crazy is that men are stupid.", "author": "George Carlin,", "tags": ["truth"]},
+    {"id": "67e3b053-94c4-51e4-a0bd-3a88144e6807", "content": "I did not attend his funeral, but I sent a nice letter saying I approved of it.", "author": "Mark Twain", "tags": ["humor"]},
+    {"id": "682456b4-fdc3-556f-9a24-932e4c45cd4f", "content": "Well, I\u2019m not kissing the mundane,\" said Jace. \"I\u2019d rather stay down here and rot.\"", "author": "Cassandra Clare,", "tags": ["humor"]},
+    {"id": "342ff449-3799-5331-bf4f-acdcacd1b6e0", "content": "Where is human nature so weak as in the bookstore?", "author": "Henry Ward Beecherr", "tags": ["books", "humor"]},
+    {"id": "ac5768e4-7188-5de2-8224-e631892ffb1e", "content": "It is hard enough to remember my opinions, without also remembering my reasons for them!", "author": "Friedrich Nietzsche", "tags": ["humor", "philosophy"]},
+    {"id": "fc598e73-e4a2-5d52-bcda-ef90d4d9c91e", "content": "Fantasy is hardly an escape from reality. It's a way of understanding it.", "author": "Lloyd Alexander", "tags": ["inspirational"]},
+    {"id": "ec637b54-7737-5aee-b752-c1fa5f5f8b59", "content": "You don't love someone for their looks, or their clothes, or for their fancy car, but because they sing a song only you can hear.", "author": "oscar wilde", "tags": ["unknown"]},
+    {"id": "a09d2a16-2149-590c-a222-01338c311204", "content": "The best index to a person's character is how he treats people who can't do him any good, and how he treats people who can't fight back.", "author": "Abigail Van Buren", "tags": ["life"]},
+    {"id": "ef5145c6-6cc4-5290-b1b6-76519740f187", "content": "The loneliest moment in someone\u2019s life is when they are watching their whole world fall apart, and all they can do is stare blankly.", "author": "F. Scott Fitzgerald", "tags": ["unknown"]},
+    {"id": "52bde1c5-5505-5e97-9e9e-e92f72c2a09d", "content": "To the people who look at the stars and wish, Rhys.\"", "author": "Sarah J. Maas,", "tags": ["unknown"]},
+    {"id": "ddd57ff7-af7b-54bd-afd2-e39325752099", "content": "I cannot live without books.", "author": "Thomas Jefferson", "tags": ["books"]},
+    {"id": "79210864-a990-5068-a30d-6ecf1ac3d242", "content": "The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater.", "author": "J.R.R. Tolkien,", "tags": ["love", "inspirational"]},
+    {"id": "d3c04c54-27e9-5b16-9af7-082d5ebea095", "content": "There is nothing either good or bad, but thinking makes it so.", "author": "William Shakespear,", "tags": ["philosophy"]},
+    {"id": "038b4391-16e4-5bd6-9bd8-049a020fdc8f", "content": "If at first you don't succeed, try, try again. Then quit. No use being a damn fool about it.", "author": "W.C. Fields", "tags": ["success", "humor"]},
+    {"id": "17fe6bc8-4b3f-5bfb-a15a-3d49a2bd4eaa", "content": "This above all: to thine own self be true,", "author": "William Shakespeare,", "tags": ["love"]},
+    {"id": "0d958a9f-c524-5d2a-8b4f-9c0b67e48441", "content": "And by the way, everything in life is writable about if you have the outgoing guts to do it, and the imagination to improvise. The worst enemy to creativity is self-doubt.", "author": "Sylvia Plath,", "tags": ["unknown"]},
+    {"id": "b47d894a-675e-5cc2-a733-41f91435bdf1", "content": "God created war so that Americans would learn geography.", "author": "Mark Twain", "tags": ["unknown"]},
+    {"id": "0aa1579f-2ef9-5080-a993-c56d2d8cbe9d", "content": "Not everything is about you,\" Clary said furiously.", "author": "Cassandra Clare,", "tags": ["unknown"]},
+    {"id": "55eb8f33-c816-5029-bb97-1e033af7eee9", "content": "I am a man\" he told her, \"and men do not consume pink beverages. Get thee gone woman, and bring me something brown.", "author": "Cassandra Clare,", "tags": ["unknown"]},
+    {"id": "e89cec3d-dfc9-501d-a893-e3233774c250", "content": "Waiting is painful. Forgetting is painful. But not knowing which to do is the worst kind of suffering.", "author": "Paulo Coelho,", "tags": ["inspirational"]},
+    {"id": "b18670a2-cfb7-5b37-823b-628aebd146e9", "content": "Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely.", "author": "Roy T. Bennett,", "tags": ["motivational", "life", "happiness", "inspirational"]},
+    {"id": "304191f8-2b98-50f6-a0c5-dd27d1022a0e", "content": "Accept who you are. Unless you're a serial killer.", "author": "Ellen DeGeneres,", "tags": ["unknown"]},
+    {"id": "cbe2a7c8-bfce-55e9-8896-a04c387430c6", "content": "Think before you speak. Read before you think.", "author": "Fran Lebowitz,", "tags": ["books", "reading"]},
+    {"id": "4a8a26f2-7215-55ce-8df3-44fc9af1b1ee", "content": "I can't imagine a man really enjoying a book and reading it only once.", "author": "C.S. Lewis", "tags": ["unknown"]},
+    {"id": "fae697e0-2443-5c47-957d-41564709c5d8", "content": "All happy families are alike; each unhappy family is unhappy in its own way.", "author": "Leo Tolstoy  ,", "tags": ["unknown"]},
+    {"id": "a8a215d6-26ef-5ae1-ae3b-6ed5b74f4f4e", "content": "You know, you could live a thousand lifetimes and not deserve him.", "author": "Suzanne Collins,", "tags": ["unknown"]},
+    {"id": "de80b778-784c-53c6-8e81-48b20454ae6c", "content": "The most important thing is to enjoy your life\u2014to be happy\u2014it's all that matters.", "author": "Audrey Hepburn", "tags": ["life", "happiness"]},
+    {"id": "0f83f01a-a482-5718-8771-b9269774b75f", "content": "Never be bullied into silence. Never allow yourself to be made a victim. Accept no one\u2019s definition of your life; define yourself.", "author": "Robert Frost", "tags": ["unknown"]},
+    {"id": "530723d4-2034-5f57-8f96-52a90e0502ea", "content": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.", "author": "Jane Austen,", "tags": ["unknown"]},
+    {"id": "9fa99eb6-3b15-5c34-b90f-8f345a06da70", "content": "Do not go where the path may lead, go instead where there is no path and leave a trail.", "author": "Ralph Waldo Emerson", "tags": ["life", "inspirational"]},
+    {"id": "5f0e099d-85b1-5f9f-bafd-f24e711ad6f7", "content": "What the hell is that?\" I laughed.", "author": "John Green,", "tags": ["humor"]},
+    {"id": "52cd2105-5b94-54c9-847b-bf52031de3ae", "content": "For the two of us, home isn't a place. It is a person. And we are finally home.", "author": "Stephanie Perkins,", "tags": ["love"]},
+    {"id": "5d8f06a1-6130-5755-aa67-4c0d472bb9af", "content": "I have loved the stars too fondly to be fearful of the night.", "author": "Sarah   Williams", "tags": ["unknown"]},
+    {"id": "9c03af9b-a3d4-5c05-a5f8-7e0a0f052ef9", "content": "What is a friend? A single soul dwelling in two bodies.", "author": "Aristotle", "tags": ["soul", "friendship"]},
+    {"id": "47a1f8b4-9834-5d92-ad14-56a9ccf6b266", "content": "The most courageous act is still to think for yourself. Aloud.", "author": "Coco Chanel", "tags": ["unknown"]},
+    {"id": "3a13e986-232f-502b-8231-e93f82897639", "content": "Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.", "author": "Maya Angelou", "tags": ["unknown"]},
+    {"id": "1d15646a-092a-5b8a-89af-45bffae4cc56", "content": "People aren't either wicked or noble. They're like chef's salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict.", "author": "Lemony Snicket,", "tags": ["life"]},
+    {"id": "7b7bffd7-4734-5359-831e-69140084f03c", "content": "Is this the part where you say if I hurt her, you'll kill me?\"", "author": "Cassandra Clare,", "tags": ["unknown"]},
+    {"id": "926bc6e3-b4d7-5f42-adac-f9a4d245999d", "content": "The wound is the place where the Light enters you.", "author": "Rumi", "tags": ["unknown"]},
+    {"id": "175714b8-69f1-5447-bdaa-68927fa987b7", "content": "what matters most is how well you walk through the fire", "author": "Charles Bukowski", "tags": ["unknown"]},
+    {"id": "a7a5626a-9778-5468-8273-3ddc85928c3e", "content": "Hell is empty and all the devils are here.", "author": "William Shakespeare,", "tags": ["inspirational"]},
+    {"id": "e43d4170-f647-5909-9784-9e61d93132ec", "content": "I can be changed by what happens to me. But I refuse to be reduced by it.", "author": "Maya Angelou,", "tags": ["inspirational", "be-yourself"]},
+    {"id": "4ad4ee3e-daaf-5383-825c-cd177ef73ebb", "content": "I generally avoid temptation unless I can't resist it.", "author": "Mae West", "tags": ["humor"]},
+    {"id": "3c9f5d11-b415-568f-9fd2-e655b122e888", "content": "We're all going to die, all of us, what a circus! That alone should make us love each other but it doesn't. We are terrorized and flattened by trivialities, we are eaten up by nothing.", "author": "Charles Bukowski", "tags": ["unknown"]},
+    {"id": "f7fe6a2c-3e5e-5110-b24b-274c27b87f6a", "content": "Never let your sense of morals prevent you from doing what is right.", "author": "Isaac Asimov,", "tags": ["humor", "philosophy", "inspirational"]},
+    {"id": "3b43a042-e367-5dd3-9d2d-ebafd318b300", "content": "Not my daughter, you bitch!", "author": "J.K. Rowling,", "tags": ["unknown"]},
+    {"id": "b415926b-23e2-5724-a452-b80d5f1e2294", "content": "For you, a thousand times over", "author": "Khaled Hosseini,", "tags": ["unknown"]},
+    {"id": "e716e752-319e-5936-90c1-5b4e3013f493", "content": "I'm not saying that everything is survivable. Just that everything except the last thing is.", "author": "John Green,", "tags": ["unknown"]},
+    {"id": "9b995738-2155-5133-b3f6-bdf6b3ae030b", "content": "All little girls should be told they are pretty, even if they aren't.", "author": "Marilyn Monroe", "tags": ["unknown"]},
+    {"id": "900c824e-9fe4-5b22-bfd1-dcd75c8a8e48", "content": "Read, read, read. Read everything -- trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it.", "author": "William Faulkner", "tags": ["reading"]},
+    {"id": "8147951c-46f8-5c8c-b31b-9052da1fb256", "content": "It's not true that I had nothing on. I had the radio on.", "author": "Marilyn Monroe", "tags": ["unknown"]},
+    {"id": "14ca8342-fcf2-5c01-b8ce-7025a8d388d0", "content": "You never have to change anything you got up in the middle of the night to write.", "author": "Saul Bellow", "tags": ["unknown"]},
+    {"id": "644a2060-061f-555e-aec1-db386d55161b", "content": "You could have had anything else in the world, and you asked for me.\"", "author": "Cassandra Clare,", "tags": ["love"]}
+    ]

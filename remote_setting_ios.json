@@ -3,5 +3,6 @@
     "version_author": "1.0.0",
     "banner_active": false,
     "inters_active": false,
-    "inters_limit": 30
+    "inters_limit": 30,
+    "free_fonts": 100
 }
